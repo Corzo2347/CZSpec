@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use CZSpec in scientific work, please cite the software."
+title: "CZSpec"
+type: software
+authors:
+  - family-names: "Corzo"
+    given-names: "Oscar"
+version: "1.0.0"
+date-released: "2026-09-25"
+repository-code: "https://github.com/Corzo2347/CZSpec"
+url: "https://github.com/Corzo2347/CZSpec"
+abstract: "Desktop application for reproducible radioastronomical and molecular spectral-line analysis, including line detection and fitting, molecular identification, and column-density calculations."
+keywords:
+  - astronomy
+  - radioastronomy
+  - spectroscopy
+  - molecular lines
+  - astrochemistry
+  - PySide6
