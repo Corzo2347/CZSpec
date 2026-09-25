@@ -75,6 +75,17 @@ Scientific results should be inspected and validated by the user; CZSpec is an a
 
 By default, each module keeps its own output structure. Exported products use non-destructive naming: if a requested filename already exists, CZSpec appends an incremental suffix such as `_001`, `_002`, etc., rather than silently overwriting previous scientific results.
 
+## License and project identity
+
+CZSpec source code is licensed under **GNU GPL-3.0-only**. See [`LICENSE`](LICENSE).
+
+- Original creator and contributor credit: [`AUTHORS.md`](AUTHORS.md)
+- Contribution guidelines: [`CONTRIBUTING.md`](CONTRIBUTING.md)
+- CZSpec name, logo, and official-project identity: [`TRADEMARKS.md`](TRADEMARKS.md)
+- Community extensions: [`mods/`](mods/README.md)
+
+The GPL license covers the software code. Use of the CZSpec name or logo in a way that implies an official, certified, or endorsed activity is addressed separately in the project identity policy.
+
 ## Citation
 
 If CZSpec contributes to scientific work, please cite the software. A machine-readable citation is provided in [`CITATION.cff`](CITATION.cff).
