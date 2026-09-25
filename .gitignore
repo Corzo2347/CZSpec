@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# CZSpec generated/runtime products
+outputs/
+workspace/
+data/temp/
+*.whl
+*.zip
+*.log
+
+# Local CZSpec user state
+source_registry.json
