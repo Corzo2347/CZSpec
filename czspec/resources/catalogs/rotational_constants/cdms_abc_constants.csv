@@ -1,0 +1,1322 @@
+tag,name,A_MHz,B_MHz,C_MHz,doc_url
+003501,HD,,1339034.0,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e003501.cat
+004501,H 2 D +,1302313.0,873595.0,497737.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e004501.cat
+005501,HD 2 +,1085205.0,655725.0,391794.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e005501.cat
+005502,HeH +,,1006063.6,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e005502.cat
+012501,C,,,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e012501.cat
+012502,BH,,354227.0,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e012502.cat
+012503,C +,,,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e012503.cat
+013501,13 C,,,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e013501.cat
+013502,CH,,425476.4,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e013502.cat
+013503,CH +,,417651.6,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e013503.cat
+013504,"CH + , v = 1 – 0 band",,417651.6,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e013504.cat
+013505,"CH + , v = 2 – 0 band",,417651.6,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e013505.cat
+013506,13 C +,,,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e013506.cat
+014501,CH 2,2211494.0,1.0,215102.2,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e014501.cat
+014502,13 CH +,,415189.9,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e014502.cat
+014503,CD +,,226785.2,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e014503.cat
+014504,"13 CH + , v = 1 – 0 band",,415189.9,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e014504.cat
+014505,"CD + , v = 1 – 0 band",,226785.2,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e014505.cat
+014506,N +,,,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e014506.cat
+015501,NH,,489959.1,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e015501.cat
+015502,13 CD +,,226785.2,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e015502.cat
+015503,14 CH +,,413087.4,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e015503.cat
+015504,CT +,,162734.2,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e015504.cat
+016501,NH 2,710302.02,1.0,245013.73,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e016501.cat
+016502,ND,,263265.5,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e016502.cat
+016503,CH 2 D +,280869.8,172992.7,105707.8,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e016503.cat
+016504,O,,,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e016504.cat
+016505,15 NH,,487799.1,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e016505.cat
+017501,OH +,,492346.31,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e017501.cat
+017502,OH –,,561669.2,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e017502.cat
+017503,CH 3 D,1.0,116325.31,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e017503.cat
+017504,15 NH 2,704388.4,1.0,244293.7,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e017504.cat
+017505,CHD 2 +,217431.51,140618.07,84406.69,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e017505.cat
+017506,"NH 3 , v = 0",10454.26,4041.15,2972.077,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e017506.cat
+017507,"OH, v = 0",,555661.54,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e017507.cat
+017508,"OH, v = 1",,534347.59,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e017508.cat
+017509,"OH, v = 2",,513318.51,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e017509.cat
+018501,NH 2 D,290077.0,192176.5,140808.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e018501.cat
+018502,OD –,,299331.6,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e018502.cat
+018503,15 NH 3,,297390.97,0.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e018503.cat
+018504,13 CH 3 D,157415.6,116226.1,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e018504.cat
+018505,H 2 O +,870581.0,1.0,253880.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e018505.cat
+018506,OD +,,262835.0,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e018506.cat
+018507,18 O,,,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e018507.cat
+019501,NHD 2,223187.7,160215.0,112520.8,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e019501.cat
+019502,18 OH –,,557996.0,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e019502.cat
+019503,H 3 O +,,334405.0,184725.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e019503.cat
+019504,15 NH 2 D,289208.0,191502.6,140667.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e019504.cat
+019505,18 OH +,,489135.0,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e019505.cat
+019506,NH 3 D +,175439.0,131412.0,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e019506.cat
+020501,ND 3,1.0,154173.3,93673.5,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e020501.cat
+020502,D 2 O,462278.8,218038.3,145258.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e020502.cat
+020503,H 2 DO +,328660.0,210120.0,140750.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e020503.cat
+020504,15 NHD 2,222052.3,159838.8,112424.3,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e020504.cat
+021501,NeH +,,519788.6,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e021501.cat
+021502,H 2 F +,1.0,386552.0,271994.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e021502.cat
+022501,NeD +,,274904.1,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e022501.cat
+023501,22 NeH +,,517556.6,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e023501.cat
+024501,NaH,,144952.42,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e024501.cat
+024502,LiOH,,35342.85,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e024502.cat
+025501,"CCH, v = 0",,43674.52,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e025501.cat
+025502,MgH,,171976.2,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e025502.cat
+025503,"CCH, v 2 = 1",,43508.68,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e025503.cat
+025504,C 2 H –,,41639.24,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e025504.cat
+025505,"CCH, v 2 = 2",,43547.5,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e025505.cat
+025506,"CCH, v 3 = 1",,43125.64,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e025506.cat
+025507,"CCH, ν 2 FIR band",,43674.52,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e025507.cat
+025508,"CCH, ν 3 IR band",,43674.52,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e025508.cat
+025509,"CCH, ν 2 + ν 3 IR band",,43674.52,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e025509.cat
+025510,"CCH, 5ν 2 IR band",,43674.52,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e025510.cat
+026501,CCD,,36068.02,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e026501.cat
+026502,13 CCH,,42077.46,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e026502.cat
+026503,C 13 CH,,42631.38,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e026503.cat
+026504,"CN, v = 0, 1",61.0,56693.47,14.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e026504.cat
+026505,"C 2 H 2 , ν 5 – ν 4",,35313.6,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e026505.cat
+026506,CN –,,56132.76,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e026506.cat
+026507,10 BO,,56291.2,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e026507.cat
+026508,"CN + , v = 0",,56556.899,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e026508.cat
+026509,"CN + , v = 1 – 0",,56556.899,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e026509.cat
+027501,"HCN, v = 0",,44315.976,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e027501.cat
+027502,"HNC, v = 0",,45331.98,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e027502.cat
+027503,"HCN, v 2 = 1",,44422.427,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e027503.cat
+027504,"HNC, v 2 = 1",,45484.46,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e027504.cat
+027505,13 CN,61.0,54353.13,14.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e027505.cat
+027506,C 15 N,61.0,54958.51,15.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e027506.cat
+027507,"HCN, v 2 = 2",,44544.014,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e027507.cat
+027508,"HCN, v 2 = 3",,44662.72,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e027508.cat
+027509,"HCN, v 3 = 1",,44013.81,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e027509.cat
+027510,"HCN, v 1 = 1",,44003.49,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e027510.cat
+027511,HCCD,,29725.25,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e027511.cat
+027512,H 10 BO,,40575.4,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e027512.cat
+027513,BO,,53165.5,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e027513.cat
+027514,C 2 H 3 +,1.0,34237.5,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e027514.cat
+027515,Al,,,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e027515.cat
+028501,"H 13 CN, v = 0",,43170.127,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028501.cat
+028502,H 2 CN,284343.0,2.0,34245.5,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028502.cat
+028503,"CO, v = 0",,57635.968,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028503.cat
+028504,HCNH +,,37055.748,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028504.cat
+028505,13 C 15 N,61.0,52607.91,15.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028505.cat
+028506,"HC 15 N, v = 0",,43027.648,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028506.cat
+028507,"HC 15 N, v 2 = 1",,43129.732,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028507.cat
+028508,DNC,,38152.99,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028508.cat
+028509,"DCN, v = 0",,36207.462,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028509.cat
+028510,"DCN, v 2 = 1",,36337.02,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028510.cat
+028511,"H 13 CN, v 2 = 1",,43264.761,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028511.cat
+028512,"CO, v = 1 – 3",,57111.24,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028512.cat
+028513,"CO + , v = 0",,58983.04,18.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028513.cat
+028514,HBO,,39224.25,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028514.cat
+028515,HN 13 C,,43545.6,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028515.cat
+028516,AlH,,188890.4,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028516.cat
+028517,Si,,,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028517.cat
+028518,Si +,,,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028518.cat
+028519,"CO + , v = 1",,58412.7,18.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028519.cat
+028520,"H 13 CN, v 2 = 2",,43374.03,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028520.cat
+028521,"H 13 CN, v 2 = 3",,43480.42,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028521.cat
+028522,"H 13 CN, v 3 = 1",,42877.73,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028522.cat
+028523,"H 13 CN, v 1 = 1",,42881.47,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028523.cat
+028524,"HC 15 N, v 2 = 2",,43246.198,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028524.cat
+028525,"HC 15 N, v 2 = 3",,43359.887,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028525.cat
+028526,"HC 15 N, v 3 = 1",,42737.8,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028526.cat
+028527,"HC 15 N, v 1 = 1",,42727.73,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028527.cat
+028528,H 2 NC,339669.8,2.0,34127.8,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e028528.cat
+029501,13 CO,,55101.013,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029501.cat
+029502,HCND +,,31705.71,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029502.cat
+029503,C 17 O,,56179.991,17.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029503.cat
+029504,"HOC + , v 2 = 0",,44743.9,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029504.cat
+029505,"HOC + , v 2 = 1",,44939.8,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029505.cat
+029506,"N 2 H + , v = 0",,46586.87,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029506.cat
+029507,"HCO + , v = 0",,44594.43,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029507.cat
+029508,"HCO + , v 2 = 1",,44677.15,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029508.cat
+029509,"N 2 H + , v 2 = 1",,46691.33,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029509.cat
+029510,D 13 CN,,35587.646,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029510.cat
+029511,DC 15 N,,35169.798,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029511.cat
+029512,"H 13 C 15 N, v = 0",,41863.945,15.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029512.cat
+029513,"H 13 C 15 N, v 2 = 1",,41954.438,15.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029513.cat
+029514,H 13 CNH +,,36113.0,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029514.cat
+029515,"HCO + , ν 2 IR band",,44594.43,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029515.cat
+029516,"N 2 H + , ν 2 IR band",,46586.87,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029516.cat
+029517,SiH,,221599.0,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029517.cat
+029518,H 2 CNH,196210.876,34641.699,29351.497,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029518.cat
+029519,13 CO +,,56388.85,18.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029519.cat
+029520,C 2 H 3 D,120093.5,27470.24,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029520.cat
+029521,"SiH + , v = 0",,226551.16,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029521.cat
+029522,"SiH + , v = 1 – 0",,226551.16,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e029522.cat
+030501,H 2 CO,281970.56,38833.987,34004.244,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030501.cat
+030502,C 18 O,,54891.421,18.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030502.cat
+030503,13 C 17 O,,53644.791,17.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030503.cat
+030504,H 13 CO +,,43377.3,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030504.cat
+030505,HC 17 O +,,43528.918,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030505.cat
+030506,DOC +,,38193.2,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030506.cat
+030507,15 NNH +,,45132.08,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030507.cat
+030508,N 15 NH +,,45603.02,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030508.cat
+030509,N 2 D +,,38554.74,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030509.cat
+030510,DCO +,,36019.77,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030510.cat
+030511,D 13 C 15 N,,34531.3,15.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030511.cat
+030512,"NO + , v = 0, 1",,59597.147,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030512.cat
+030513,C 18 O +,,56174.56,18.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030513.cat
+030514,H 2 13 CNH,196195.49,33747.23,28706.33,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030514.cat
+030515,H 2 CND,157673.92,32069.01,28706.33,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030515.cat
+030516,H 2 C 15 NH,196195.49,33747.23,15.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030516.cat
+030517,"NO, v = 0",,50847.8,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030517.cat
+030518,"NO, v = 1",,50321.04,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030518.cat
+030519,H 2 CNH 2 +,151415.0,31338.38,25901.93,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030519.cat
+030520,"NO + , v = 1 – 0, 2 – 1",,59597.147,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030520.cat
+030521,"NO + , v = 2 – 0",,59597.147,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e030521.cat
+031501,HDCO,198118.36,34909.107,29562.871,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e031501.cat
+031502,13 C 18 O,,52356.001,18.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e031502.cat
+031503,H 2 13 CO,281993.04,37809.107,33215.941,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e031503.cat
+031504,H 2 COH +,197581.56,34350.55,29172.65,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e031504.cat
+031505,CF,,42197.06,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e031505.cat
+031506,HC 18 O +,,42581.265,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e031506.cat
+031507,"CF + , v = 0, 1",,51294.15,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e031507.cat
+031508,D 13 CO +,,35366.71,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e031508.cat
+031509,15 NND +,,37380.57,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e031509.cat
+031510,N 15 ND +,,38009.27,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e031510.cat
+031511,13 C 18 O +,,53579.9,18.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e031511.cat
+031512,15 NO,,49050.54,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e031512.cat
+031513,N 17 O,,49449.41,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e031513.cat
+031514,H 2 C 17 O,281965.8,37810.313,17.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e031514.cat
+031515,CH 2 OH,194535.0,29843.4,25947.5,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e031515.cat
+031516,15 N 2 H +,,44132.188,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e031516.cat
+031517,DC 17 O +,,35170.869,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e031517.cat
+031518,CH 3 O,155500.0,27930.105,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e031518.cat
+032501,PH,,252200.81,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e032501.cat
+032502,D 2 CO,141653.6,32282.506,26186.347,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e032502.cat
+032503,H 2 C 18 O,281961.4,36902.276,18.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e032503.cat
+032504,"CH 3 OH, v t = 0 – 2",127523.4,24692.5,23760.3,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e032504.cat
+032505,DC 18 O +,,34413.785,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e032505.cat
+032506,H 2 13 COH +,197563.5,33378.7,28468.2,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e032506.cat
+032507,HD 13 CO,197648.21,32191.2,29035.86,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e032507.cat
+032508,"O 2 , v = 0",,43100.44,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e032508.cat
+032509,"13 CF + , v = 0, 1",,48875.05,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e032509.cat
+032510,"O 2 , a 1 Δ",1.0,42504.522,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e032510.cat
+032511,S,,,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e032511.cat
+032512,LiCCH,,10544.09,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e032512.cat
+032513,N 18 O,,48211.77,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e032513.cat
+032514,15 N 17 O,,47651.93,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e032514.cat
+032515,15 N 2 D +,,36817.847,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e032515.cat
+033501,PH 2,273783.51,1.0,126343.83,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e033501.cat
+033502,"13 CH 3 OH, v t = 0, 1",127527.4,24083.5,23197.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e033502.cat
+033503,NH 2 OH,190976.2,25218.73,25156.55,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e033503.cat
+033504,SH –,,282240.8,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e033504.cat
+033505,SH +,,273810.4,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e033505.cat
+033506,D 2 13 CO,141668.5,31732.265,25823.499,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e033506.cat
+033507,15 N 18 O,,46414.1,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e033507.cat
+033508,"SH, v = 0",,283616.9,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e033508.cat
+033509,"SH, v = 1",,275268.4,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e033509.cat
+033510,HDC 18 O,198003.9,33139.76,28281.23,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e033510.cat
+033511,"CH 3 OD, v t = 0",110176.7,23478.2,21990.6,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e033511.cat
+033512,"CH 3 OD, v t = 1",110176.7,23478.2,21990.6,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e033512.cat
+033513,"CH 3 17 OH, v t = 0",126684.0,24138.1,23244.8,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e033513.cat
+033514,"CH 3 17 OH, v t = 1",126684.0,24138.1,23244.8,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e033514.cat
+033515,"CH 3 17 OH, v t = 0 ↔ 1",126684.0,24138.1,23244.8,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e033515.cat
+034501,PH 3,1.0,133480.128,117489.43,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e034501.cat
+034502,H 2 S,310667.83,270331.83,141789.63,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e034502.cat
+034503,O 18 O,,40707.4,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e034503.cat
+034504,"CH 3 18 OH, v t ≤ 2",127285.3749,23651.2578,22787.1066,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e034504.cat
+034505,D 2 C 18 O,141649.3,30594.8,18.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e034505.cat
+034506,"CHD 2 OH, v t = 0",,,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e034506.cat
+035501,NaC,,12863.14,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e035501.cat
+035502,HDS,292358.4,147820.1,96740.1,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e035502.cat
+035503,H 2 33 S,310110.0,270331.4,141672.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e035503.cat
+035504,34 SH +,,273323.0,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e035504.cat
+035505,"CD 3 OH, v t = 0",70819.0,19856.0,19266.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e035505.cat
+035506,"CD 3 OH, v t = 1",70819.0,19856.0,19266.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e035506.cat
+036501,NaCH,,11322.32,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e036501.cat
+036502,"C 3 , ν 2",,12908.2,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e036502.cat
+036503,D 2 S,164656.48,135277.07,73266.5,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e036503.cat
+036504,H 2 34 S,309586.62,270331.16,141561.41,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e036504.cat
+036505,18 O 2,,38313.7,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e036505.cat
+036506,"CD 3 OD, v t = 0",65035.9,18903.5,17940.6,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e036506.cat
+036507,"CD 3 OD, v t = 1",65035.9,18903.5,17940.6,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e036507.cat
+037501,"C 3 H, v = 0, v 4 = 1, 2 Σ μ",,11189.1,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e037501.cat
+037502,36 ArH +,,308799.9,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e037502.cat
+037503,HD 34 S,291688.0,147407.0,96488.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e037503.cat
+037504,H 2 Cl +,1.0,273587.8,148100.7,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e037504.cat
+037505,C 3 H +,,11244.95,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e037505.cat
+038501,l -C 3 H 2,1.0,10588.64,10203.97,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e038501.cat
+038502,C 2 N,,11938.59,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e038502.cat
+038503,"C 3 D, v = 0, v 4 = 1, 2 Σ μ",,10097.38,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e038503.cat
+038504,"13 CCCH, v = 0, v 4 = 1, 2 Σ μ",,10755.7,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e038504.cat
+038505,"C 13 CCH, v = 0, v 4 = 1, 2 Σ μ",,11187.8,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e038505.cat
+038506,"CC 13 CH, v = 0, v 4 = 1, 2 Σ μ",,10842.5,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e038506.cat
+038507,D 2 34 S,163576.0,135280.0,73050.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e038507.cat
+038508,c -C 3 H 2,35092.51,32212.95,16749.03,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e038508.cat
+039501,HCCN,,10986.41,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e039501.cat
+039502,l - 13 CCCH 2,1.0,10180.31,9824.2,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e039502.cat
+039503,l -C 13 CCH 2,1.0,10584.69,10200.49,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e039503.cat
+039504,l -CC 13 CH 2,1.0,10278.64,9915.82,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e039504.cat
+039505,H 2 C 3 H,288055.0,1.0,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e039505.cat
+039506,l -C 3 HD,199371.0,9934.23,9450.3,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e039506.cat
+039507,H 2 37 Cl +,1.0,273586.9,147907.1,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e039507.cat
+039508,c -C 3 HD,34517.52,26965.81,15098.46,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e039508.cat
+039509,c - 13 CC 2 H 2,33310.56,32212.57,16331.29,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e039509.cat
+039510,c -CC 13 CH 2,34857.19,31288.48,16443.04,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e039510.cat
+039511,38 ArH +,,308361.6,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e039511.cat
+039512,H 2 C 3 H +,282000.0,9675.84,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e039512.cat
+040501,SiC,,20297.58,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040501.cat
+040502,"CH 3 CCH, v = 0",159140.0,8545.877,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040502.cat
+040503,KH,,101150.78,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040503.cat
+040504,"CH 3 CCH, v 10 = 1",159078.0,8569.816,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040504.cat
+040505,H 2 CCN,285130.0,1.0,9876.56,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040505.cat
+040506,c -C 3 H 4,30061.25,21825.79,13795.55,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040506.cat
+040507,"CH 3 CCH, ν 10",159140.0,8545.877,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040507.cat
+040508,"CH 3 CCH, ν 9",159140.0,8545.877,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040508.cat
+040509,NaOH,,12567.06,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040509.cat
+040510,H 13 CCN,,10616.54,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040510.cat
+040511,HC 13 CN,,10986.16,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040511.cat
+040512,DCCN,,9906.37,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040512.cat
+040513,HCC 15 N,,10646.43,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040513.cat
+040514,c -C 3 D 2,31649.1,24298.62,13709.85,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040514.cat
+040515,l -C 3 D 2,145155.0,9402.84,8818.15,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040515.cat
+040516,c - 13 CC 2 HD,34500.0,26285.1,14879.3,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040516.cat
+040517,c -C 13 CCHD,33051.7,26731.3,14739.5,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040517.cat
+040518,c -CC 13 CHD,33807.3,26551.8,14832.3,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040518.cat
+040519,"MgO, v = 0 - 2",,17149.4,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040519.cat
+040520,c -C 3 H 2 D +,30747.25,25465.52,13897.861,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e040520.cat
+041501,CH 3 CCD,159140.0,7788.169,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041501.cat
+041502,CH 2 DCCH,121836.0,8155.686,8025.477,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041502.cat
+041503,H 2 CCNH,201445.42,9663.139,9470.12,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041503.cat
+041504,40 ArH +,,307966.2,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041504.cat
+041505,"CH 3 CN, v = 0",158099.0,9198.8992,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041505.cat
+041506,HCCO,,10831.37,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041506.cat
+041507,HNCN,634500.0,11087.81,10881.72,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041507.cat
+041508,MgOH,,14822.52,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041508.cat
+041509,"CH 3 CN, v 8 = 1",158010.6,9226.419,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041509.cat
+041510,"CH 3 CN, v 8 = 2",157965.7,9252.956,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041510.cat
+041511,"CH 3 CN, ν 8",158010.6,9226.419,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041511.cat
+041512,"CH 3 CN, 2ν 8 –ν 8",157965.7,9252.956,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041512.cat
+041513,"CH 3 CN, 2ν 8",157965.7,9252.956,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041513.cat
+041514,CH 3 NC,157308.0,10052.886,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041514.cat
+041515,CH 3 C 13 CH,159140.0,8290.247,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041515.cat
+041516,CH 3 13 CCH,159140.0,8542.333,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041516.cat
+041517,13 CH 3 CCH,159140.0,8313.249,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041517.cat
+041518,CaH +,,142501.78,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041518.cat
+041519,"25 MgO, v = 0, 1",,16875.29,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041519.cat
+041520,"CaH, v = 0",,126772.96,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041520.cat
+041521,"CaH, v = 1",,123865.98,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e041521.cat
+042501,H 2 CCO v = 0,282089.0,10293.321,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042501.cat
+042502,"NaF, v = 0, 1",,13029.814,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042502.cat
+042503,NCO,,11677.34,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042503.cat
+042504,CH 3 CNH +,1.0,8590.56,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042504.cat
+042505,SiN,,21827.79,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042505.cat
+042506,HNCNH,5.0,10366.941,10366.089,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042506.cat
+042507,40 ArD +,,158702.3,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042507.cat
+042508,"13 CH 3 CN, v = 0",158099.0,8933.3094,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042508.cat
+042509,"CH 3 13 CN, v = 0",158099.0,9194.35,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042509.cat
+042510,"CH 3 C 15 N, v = 0",158099.0,8922.039,15.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042510.cat
+042511,CH 2 DCN,121074.9,8759.198,8608.542,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042511.cat
+042512,NCO –,,11513.97,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042512.cat
+042513,"13 CH 3 CN, v 8 = 1",158010.0,8959.998,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042513.cat
+042514,"CH 3 13 CN, v 8 = 1",158010.0,9220.755,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042514.cat
+042515,"CH 3 C 15 N, v 8 = 1",158010.0,8948.904,15.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042515.cat
+042516,C 3 H 6,46280.29,9305.243,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042516.cat
+042517,H 2 CSi,304800.0,16587.0,15633.1,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042517.cat
+042518,H 2 NNC,282500.0,10757.022,10527.45,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042518.cat
+042519,DCCO,,9841.0,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042519.cat
+042520,26 AlO v = 0,,19413.6,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042520.cat
+042521,"26 AlO v = 1, 2",,19235.5,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042521.cat
+042522,CH 3 13 C 13 CH,159140.0,8288.234,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042522.cat
+042523,13 CH 3 C 13 CH,159140.0,8060.007,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042523.cat
+042524,13 CH 3 13 CCH,159140.0,8060.007,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042524.cat
+042525,CH 3 C 13 CD,159140.0,7592.916,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042525.cat
+042526,CH 3 13 CCD,159140.0,7787.03,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042526.cat
+042527,13 CH 3 CCD,159140.0,7576.8,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042527.cat
+042528,CH 2 DC 13 CH,121831.0,7908.45,7785.91,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042528.cat
+042529,CH 2 D 13 CCH,121825.0,8150.51,8020.43,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042529.cat
+042530,13 CH 2 DCCH,121737.0,7956.79,7832.35,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042530.cat
+042531,CH 2 DCCD,121757.3,7440.783,7331.995,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042531.cat
+042532,CHD 2 CCH,97087.9,7765.721,7630.982,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042532.cat
+042533,"26 MgO, v = 0, 1",,16623.12,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042533.cat
+042534,H 2 CCO v 9 = 1,280357.0,10337.59,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042534.cat
+042535,H 2 CCO v 6 = 1,282098.0,10288.17,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042535.cat
+042536,H 2 CCO v 5 = 1,282378.0,10294.27,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042536.cat
+042537,CH 3 N 13 C,157308.0,9695.88,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042537.cat
+042538,13 CH 3 NC,157308.0,9771.64,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042538.cat
+042539,CH 3 15 NC,157308.0,10044.34,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e042539.cat
+043501,CP,,23859.914,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043501.cat
+043502,c -C 2 H 4 NH,22736.193,21192.461,13383.164,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043502.cat
+043503,MgF,,15496.812,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043503.cat
+043504,"C 2 H 3 NH 2 , within 0 + & 0 –",56320.0,10034.78,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043504.cat
+043505,H 2 C 13 CO,282090.0,10293.63,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043505.cat
+043506,H 2 13 CCO,282099.0,9960.98,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043506.cat
+043507,HDCCO,194284.0,9647.07,9174.64,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043507.cat
+043508,"C 2 H 3 NH 2 , 0 – ← 0 +",56320.0,10034.78,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043508.cat
+043509,HCNO,,11469.05,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043509.cat
+043510,HOCN,681000.0,10577.01,10398.49,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043510.cat
+043511,HNCO,918594.0,11071.768,10909.89,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043511.cat
+043512,HONC,613000.0,10953.4,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043512.cat
+043513,13 CH 3 13 CN,158099.0,8927.28,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043513.cat
+043514,CHD 2 CN,96500.27,8320.073,8164.428,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043514.cat
+043515,H 2 N 13 CN,308205.0,10117.08,9862.35,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043515.cat
+043516,HNSi,,19018.8,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043516.cat
+043517,HDNCN,212394.6,9601.25,9260.27,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043517.cat
+043518,H 2 15 NCN,307820.0,9845.11,9604.19,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043518.cat
+043519,H 2 NC 15 N,308330.0,9794.55,9555.6,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043519.cat
+043520,AlO v = 0,,19141.57,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043520.cat
+043521,"AlO v = 1, 2",,18967.52,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043521.cat
+043522,AlO v = 3 – 5,,18616.54,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043522.cat
+043523,H 2 CCHO,66677.86,11446.964,9758.989,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e043523.cat
+044501,"CS, v = 0 – 4",,24495.56,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044501.cat
+044502,"HCP, v = 0",,19975.992,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044502.cat
+044503,"HCP, v 2 = 1",,19989.67,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044503.cat
+044504,c -C 2 H 4 O,25483.863,22120.873,14097.826,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044504.cat
+044505,"SiO, v = 0 – 10",,21787.487,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044505.cat
+044506,s -H2C=CHOH,59660.77,10561.606,8965.842,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044506.cat
+044507,a -H2C=CHOH,62868.09,10455.747,8963.32,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044507.cat
+044508,H 2 CC 18 O,282120.0,9761.24,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044508.cat
+044509,D 2 CCO,141489.0,9120.83,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044509.cat
+044510,"CS, v = 1 – 0 and v = 2 – 1 bands",,24495.56,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044510.cat
+044511,"CS, v = 2 – 0 band",,24495.56,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044511.cat
+044512,CS +,,25908.86,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044512.cat
+044513,DCNO,,10292.48,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044513.cat
+044514,H 13 CNO,,11091.533,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044514.cat
+044515,HC 15 NO,,11468.18,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044515.cat
+044516,H 2 NCO +,1.0,10278.68,9948.9,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044516.cat
+044517,H 2 CSiH 2,104716.5,17768.443,15936.542,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044517.cat
+044518,Al 17 O v = 0,,18433.25,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044518.cat
+044519,"Al 17 O v = 1, 2",,18268.81,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044519.cat
+044520,CD 3 CN,79377.0,7857.983,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044520.cat
+044521,H 2 NCO,126265.0,11167.74,10256.93,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e044521.cat
+045501,"13 CS, v = 0, 1",,23123.85,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045501.cat
+045502,"C 33 S, v = 0, 1",,24293.33,33.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045502.cat
+045503,DCP,,16984.36,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045503.cat
+045504,"29 SiO, v = 0 – 6",,21514.117,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045504.cat
+045505,H 2 CP,296184.0,2.0,16004.04,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045505.cat
+045506,HCS +,,21337.14,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045506.cat
+045507,HCS,954000.0,20360.0,19970.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045507.cat
+045508,HSC,295038.9,22036.16,19564.22,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045508.cat
+045509,"13 CS, v = 1 – 0 band",,23123.85,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045509.cat
+045510,H 13 CP,,19139.31,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045510.cat
+045511,PN v = 0 – 5,,23578.238,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045511.cat
+045512,"HC(O)NH 2 , v = 0",72716.899,11373.51,9833.953,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045512.cat
+045513,c -C 13 CH 4 O,25291.998,21597.975,13825.779,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045513.cat
+045514,HSiO,312108.0,19884.44,18607.98,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045514.cat
+045515,C 2 H 5 NH 2,31758.06,8749.28,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045515.cat
+045516,"HC(O)NH 2 , v 12 = 1",71738.725,11351.523,9839.317,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045516.cat
+045517,trans -HOCO,167768.2,11433.05,10686.9,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045517.cat
+045518,cis -HOCO,142958.7,11738.49,10830.14,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045518.cat
+045519,"Si 17 O, v = 0 – 4",,20986.668,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045519.cat
+045520,HON 2 +,625957.7,11301.56,11084.28,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045520.cat
+045521,HN 2 O +,1155600.0,11869.4,11723.3,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045521.cat
+045522,HOCO +,789947.8,10773.733,10609.431,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045522.cat
+045523,26 AlF v = 0 – 2,,16748.506,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045523.cat
+045524,"CH 3 CDO, v t = 0, 1",44797.16,10494.79,8723.57,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045524.cat
+045525,"CH 2 DCHO, v t = 0",48508.88,9864.68,8637.11,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045525.cat
+045526,Al 18 O v = 0,,17803.35,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045526.cat
+045527,"Al 18 O v = 1, 2",,17647.26,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045527.cat
+045528,"CH 3 13 CHO, v t ≤ 1",55430.92,10454.38,9059.103,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045528.cat
+045529,"13 CH 3 CHO, v t ≤ 1",55365.1,10124.79,8838.413,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045529.cat
+045530,H 2 CNOH,67679.409,11859.225,10080.124,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045530.cat
+045531,c -C 2 H 3 DO,24252.67,19905.494,13327.592,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045531.cat
+045532,CH 3 NHCH 3,34242.442,9334.296,8215.651,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e045532.cat
+046501,"C 34 S, v = 0, 1",,24103.55,34.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046501.cat
+046502,"30 SiO, v = 0 – 6",,21259.543,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046502.cat
+046503,"Si 18 O, v = 0 – 5",,20244.06,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046503.cat
+046504,H 13 CS +,,20444.49,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046504.cat
+046505,DCS +,,18018.26,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046505.cat
+046506,t -HCOOH,77512.24,12055.021,10416.2,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046506.cat
+046507,c -HCOOH,86461.62,11689.1,10284.07,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046507.cat
+046508,13 C 33 S,,22921.59,33.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046508.cat
+046509,H 2 CS,291613.3,17698.994,16652.498,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046509.cat
+046510,"C 34 S, v = 1 – 0 band",,24103.55,34.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046510.cat
+046511,P 15 N v = 0 – 1,,22421.71,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046511.cat
+046512,H 13 C(O)NH 2,71058.21,11372.49,9801.96,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046512.cat
+046513,HC(O) 15 NH 2,72449.7,11054.46,9589.89,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046513.cat
+046514,"CH 3 OCH 3 , v = 0",38788.18,10056.48,8886.83,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046514.cat
+046515,"NS, v = 0",0.0,23155.42,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046515.cat
+046516,"NS, v = 1",0.0,22966.65,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046516.cat
+046517,"NS, v = 1 – 0 band",0.0,23155.42,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046517.cat
+046518,c -C 2 H 4 18 O,23992.435,22121.172,13628.24,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046518.cat
+046519,H 2 SiO,1.0,18678.56,16743.6,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046519.cat
+046520,DC(O)NH 2,54947.58,11372.925,9419.763,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046520.cat
+046521,cis -HC(O)NHD,61345.07,11009.84,9334.151,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046521.cat
+046522,trans -HC(O)NHD,71180.64,10473.342,9132.454,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046522.cat
+046523,"29 Si 17 O, v = 0 – 2",,20695.296,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046523.cat
+046524,C 2 H 5 OH,34921.0,9351.2,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046524.cat
+046525,DOCO +,432956.4,10163.993,9908.686,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046525.cat
+046526,HO 13 CO +,789180.0,10772.867,10608.473,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046526.cat
+046527,NS +,,25049.899,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046527.cat
+046528,AlF v = 0 – 5,,16488.355,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046528.cat
+046529,DSC,155928.0,20430.08,17981.85,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046529.cat
+046530,HS 13 C,294898.0,19853.84,18536.86,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046530.cat
+046531,DCS,556959.0,17901.2,17234.2,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046531.cat
+046532,H 13 CS,942000.0,19444.2,19054.2,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046532.cat
+046533,"2,2- c -CD 2 CH 2 O",23062.787,18013.451,12727.736,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046533.cat
+046534,"CHD 2 CHO, v t = 0",,,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046534.cat
+046535,H 2 CS v 4 = 1,291467.6,17685.713,16659.382,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046535.cat
+046536,H 2 CS v 6 = 1,292237.0,17712.96,16616.39,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046536.cat
+046537,H 2 CS v 3 = 1,291302.3,17588.956,16546.424,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046537.cat
+046538,H 2 CS v 2 = 1,294096.4,17685.879,16611.559,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046538.cat
+046539,H 2 CS ν 4 IR band,291467.6,17685.713,16659.382,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046539.cat
+046540,H 2 CS ν 6 IR band,292237.0,17712.96,16616.39,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046540.cat
+046541,H 2 CS ν 3 IR band,291302.3,17588.956,16546.424,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046541.cat
+046542,H 2 CS ν 2 IR band,294096.4,17685.879,16611.559,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e046542.cat
+047501,13 C 34 S,,22731.78,34.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047501.cat
+047502,HC 34 S +,,20991.57,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047502.cat
+047503,t -H 13 COOH,75580.9,12053.49,10379.08,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047503.cat
+047504,HDCS,202715.0,16110.81,14891.55,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047504.cat
+047505,H 2 13 CS,291629.0,16998.786,16031.192,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047505.cat
+047506,H 2 C 33 S,291613.0,17538.843,33.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047506.cat
+047507,"PO, v = 0",,21899.551,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047507.cat
+047508,HC( 18 O)NH 2,71899.9,10775.89,9370.07,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047508.cat
+047509,N 33 S,0.0,22942.23,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047509.cat
+047510,15 NS,0.0,22087.5,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047510.cat
+047511,a -CH 3 13 CH 2 OH,34125.15,9351.56,8093.09,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047511.cat
+047512,a - 13 CH 3 CH 2 OH,34748.88,9087.66,7927.91,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047512.cat
+047513,"29 Si 18 O, v = 0 – 3",,19970.684,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047513.cat
+047514,"30 Si 17 O, v = 0 – 2",,20695.296,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047514.cat
+047515,a -CH 3 CH 2 OD,34773.74,8768.85,7687.89,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047515.cat
+047516,a -CH 3 CHDOH,30209.1,9239.13,7930.54,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047516.cat
+047517,a - a -CH 2 DCH 2 OH,31635.66,8956.25,7818.33,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047517.cat
+047518,a - s -CH 2 DCH 2 OH,34547.08,8627.59,7568.11,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047518.cat
+047519,"PO, v = 1, 2",,21735.643,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047519.cat
+047520,"PO, v = 3–5",,21407.671,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047520.cat
+047521,CH 3 ONH 2,42486.14,10049.676,8962.891,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047521.cat
+047522,13 CH 3 OCH 3,38439.905,9538.241,8462.594,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047522.cat
+047523,"CCl + , v = 0",,23824.28,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047523.cat
+047524,"SiF + , v = 0, 1",,19097.135,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047524.cat
+047525,"SiF + , v = 1 – 0, 2 – 1",,19097.135,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047525.cat
+047526,"SiF + , v = 2 – 0",,19097.135,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047526.cat
+047527,trans -HONO,92892.03,12524.786,11016.851,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047527.cat
+047528,cis -HONO,84101.86,13168.907,11364.334,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e047528.cat
+048501,"SO, v = 0",,21523.556,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e048501.cat
+048502,"SO, v = 1",,21351.6,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e048502.cat
+048503,C 36 S,,23754.47,36.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e048503.cat
+048504,"SO, a 1 Δ, v = 0, 1",1.0,21523.556,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e048504.cat
+048505,NaCCH,,4510.124,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e048505.cat
+048506,HPO,265070.0,21074.69,19464.48,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e048506.cat
+048507,D 2 CS,146399.5,14904.252,13495.833,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e048507.cat
+048508,H 2 C 34 S,291612.0,17388.498,34.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e048508.cat
+048509,N 34 S,0.0,22742.05,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e048509.cat
+048510,"CH 3 SH, v t ≤ 2",102766.6,12951.9,12388.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e048510.cat
+048511,"30 Si 18 O, v = 0 – 3",,19716.107,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e048511.cat
+048512,MgC 2,1.0,11504.0,9392.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e048512.cat
+048513,"13 CCl + , v = 0",,22458.31,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e048513.cat
+048514,"29 SiF + , v = 0",,18831.104,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e048514.cat
+049501,33 SO,,21306.465,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049501.cat
+049502,S 17 O,,20677.81,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049502.cat
+049503,"C 4 H, v = 0",,4758.656,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049503.cat
+049504,"C 4 H, v 7 = 1",,4762.849,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049504.cat
+049505,"C 4 H, v 7 = 2 0",,4782.167,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049505.cat
+049506,"C 4 H, v 7 = 2 2",,4778.571,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049506.cat
+049507,MgCCH,,4965.335,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049507.cat
+049508,13 C 36 S,,22382.63,36.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049508.cat
+049509,C 4 H –,,4654.944,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049509.cat
+049510,"NaCN, NaNC",57921.94,8368.495,7271.885,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049510.cat
+049511,15 N 34 S,0.0,21673.94,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049511.cat
+049512,HSO,299484.0,20502.785,19135.699,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049512.cat
+049513,H 2 13 C 34 S,291638.0,16685.87,34.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049513.cat
+049514,"C 4 H, v 6 = 1",,4762.85,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049514.cat
+049515,"C 4 H, v 5 = 1",,4778.035,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049515.cat
+049516,"C 4 H, v 6 = v 7 = 1",,4760.851,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049516.cat
+049517,"CH 3 SD, v t ≤ 2",77800.27,12746.32,11744.92,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049517.cat
+049518,"13 CH 3 SH, v t ≤ 2",102715.0,12475.83,11952.25,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049518.cat
+049519,25 MgC 2,1.0,11274.0,9238.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049519.cat
+049520,MgC 13 C,1.0,11272.0,9172.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049520.cat
+049521,"C 37 Cl + , v = 0",,23496.16,37.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049521.cat
+049522,"30 SiF + , v = 0",,18583.446,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049522.cat
+049523,a -NH 2 SH,148000.0,14237.64,13975.99,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049523.cat
+049524,s -NH 2 SH,148318.7,14341.55,14097.04,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e049524.cat
+050501,34 SO,,21102.73,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050501.cat
+050502,S 18 O,,19929.28,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050502.cat
+050503,l -C 4 H 2,1.0,4503.31,4428.61,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050503.cat
+050504,"MgNC, v = 0",,5966.904,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050504.cat
+050505,"MgNC, v 2 = 1",,6046.9,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050505.cat
+050506,C 4 D,,4416.443,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050506.cat
+050507,13 CCCCH,,4594.543,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050507.cat
+050508,C 13 CCCH,,4734.634,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050508.cat
+050509,CC 13 CCH,,4741.869,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050509.cat
+050510,CCC 13 CH,,4614.972,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050510.cat
+050511,"C 3 N, v = 0",,4947.62,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050511.cat
+050512,"C 3 N, v 5 = 1",,4967.56,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050512.cat
+050513,"Na 13 CN, NaN 13 C",55674.35,8198.012,7106.818,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050513.cat
+050514,C 3 N –,,4851.622,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050514.cat
+050515,C 4 D –,,4324.02,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050515.cat
+050516,N 36 S,0.0,22373.75,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050516.cat
+050517,H 2 C 36 S,291610.0,17111.828,36.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050517.cat
+050518,"CH 3 34 SH, v t ≤ 2",102766.6,12951.9,12388.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050518.cat
+050519,26 MgC 2,1.0,11062.0,9095.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050519.cat
+050520,25 MgCCH,,4875.31,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050520.cat
+050521,Mg 13 CCH,,4944.24,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050521.cat
+050522,MgC 13 CH,,4803.04,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e050522.cat
+051501,"HC 3 N, (0,0,0,0)",,4549.059,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051501.cat
+051502,"HC 3 N, (0,0,0,1)",,4563.513,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051502.cat
+051503,"HC 3 N, (0,0,0,2)",,4577.967,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051503.cat
+051504,"HC 3 N, (0,0,1,0)",,4558.314,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051504.cat
+051505,"HC 3 N, (0,0,1,1)",,4572.865,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051505.cat
+051506,"HC 3 N, (1,0,0,0)",,4538.24,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051506.cat
+051507,"HC 3 N, (1,0,0,1)",,4558.028,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051507.cat
+051508,"HC 3 N, (0,1,0,0)/(0,0,0,3)",,4550.624,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051508.cat
+051509,"HC 3 N, (1,0,0,2)/(0,2,0,0) 0e",,4574.176,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051509.cat
+051510,KC,,8619.89,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051510.cat
+051511,13 CCCN,,4771.22,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051511.cat
+051512,C 13 CCN,,4920.71,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051512.cat
+051513,CC 13 CN,,4929.06,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051513.cat
+051514,C 3 15 N,,4801.23,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051514.cat
+051515,l - 13 CC 3 H 2,1.0,4345.69,4276.07,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051515.cat
+051516,l -C 13 CC 2 H 2,1.0,4480.84,4406.86,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051516.cat
+051517,l -C 2 13 CCH 2,1.0,4491.93,4417.61,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051517.cat
+051518,l -C 3 13 CH 2,1.0,4372.96,4302.5,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051518.cat
+051519,"HC 3 N, v 3 = 1",,4535.119,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051519.cat
+051520,"HC 3 N, v 2 = 1",,4527.495,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051520.cat
+051521,l -C 4 HD,195453.0,4286.5,4189.2,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051521.cat
+051522,"HC 3 N, ν 3 band",,4549.059,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051522.cat
+051523,"HC 3 N, ν 2 band",,4549.059,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051523.cat
+051524,"HC 3 N, ν 1 band",,4549.059,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051524.cat
+051525,"HC 3 N, (0,0,0,4)/(0,1,0,1)",,4606.77,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051525.cat
+051526,"HC 3 N, (0,0,2,0)",,4567.5,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051526.cat
+051527,HMgNC,,5481.43,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051527.cat
+051528,HNC 3,,4668.336,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051528.cat
+051529,AlC 2,1.0,12073.6,9769.3,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051529.cat
+051530,CH 2 DCl,119836.7,12479.299,12177.221,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051530.cat
+051531,HCCNC,,4967.838,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051531.cat
+051532,26 MgCCH,,4792.16,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e051532.cat
+052501,"C 3 O, v = 0",,4810.8864,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052501.cat
+052502,36 SO,,20727.99,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052502.cat
+052503,HC 3 NH +,1.0,4328.997,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052503.cat
+052504,KCH,,7483.87,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052504.cat
+052505,CaC,,10337.92,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052505.cat
+052506,H 2 CCHCCH (C 4 H 4 ),50300.1,4744.943,4329.773,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052506.cat
+052507,( c- C 3 H 2 )CH 2 (C 4 H 4 ),29286.3,7154.48,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052507.cat
+052508,"DC 3 N, v = 0",,4221.581,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052508.cat
+052509,"H 13 CCCN, v = 0",,4408.442,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052509.cat
+052510,"HC 13 CCN, v = 0",,4529.761,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052510.cat
+052511,"HCC 13 CN, v = 0",,4530.198,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052511.cat
+052512,"HCCC 15 N, v = 0",,4416.752,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052512.cat
+052513,"DC 3 N, v 7 = 1",,4234.51,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052513.cat
+052514,"H 13 CCCN, v 7 = 1",,4422.51,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052514.cat
+052515,"HC 13 CCN, v 7 = 1",,4543.78,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052515.cat
+052516,"HCC 13 CN, v 7 = 1",,4544.39,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052516.cat
+052517,"HCCC 15 N, v 7 = 1",,4430.76,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052517.cat
+052518,"H 13 CCCN, v 7 = 2",,4436.57,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052518.cat
+052519,"HC 13 CCN, v 7 = 2",,4557.81,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052519.cat
+052520,"HCC 13 CN, v 7 = 2",,4558.58,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052520.cat
+052521,"H 13 CCCN, v 6 = 1",,4417.4,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052521.cat
+052522,"HC 13 CCN, v 6 = 1",,4538.84,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052522.cat
+052523,"HCC 13 CN, v 6 = 1",,4539.18,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052523.cat
+052524,"H 13 CCCN, v 5 = 1 / v 7 = 3",,4409.7,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052524.cat
+052525,"HC 13 CCN, v 5 = 1 / v 7 = 3",,4531.31,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052525.cat
+052526,"HCC 13 CN, v 5 = 1 / v 7 = 3",,4531.75,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052526.cat
+052527,"SiC 2 , v = 0",52474.0,13158.71,10441.58,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052527.cat
+052528,"SiC 2 , v 3 = 1",53768.0,12992.1,10212.9,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052528.cat
+052529,"SiC 2 , v 3 = 2",55430.0,12841.5,9975.6,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052529.cat
+052530,"C 3 O, v 5 = 1",,4848.607,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052530.cat
+052531,"H 13 CCCN, (0,0,1,1)",,4431.56,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052531.cat
+052532,"HC 13 CCN, (0,0,1,1)",,4552.95,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052532.cat
+052533,"HCC 13 CN, (0,0,1,1)",,4553.47,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052533.cat
+052534,"HCC 13 CN, (1,0,0,0)",,4524.1,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052534.cat
+052535,"HCC 13 CN, (1,0,0,1)",,4538.8,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052535.cat
+052536,AlCCH,,4976.086,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052536.cat
+052537,"SiC 2 , v 3 = 3",57460.0,12706.8,9729.3,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052537.cat
+052538,"SiC 2 , v 3 = 4",59860.0,12588.0,9475.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052538.cat
+052539,HCCNCH +,,4664.432,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052539.cat
+052540,DCCNC,,4598.289,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052540.cat
+052541,HCCN 13 C,,4804.874,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052541.cat
+052542,HC 13 CNC,,4949.446,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052542.cat
+052543,H 13 CCNC,,4813.119,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052543.cat
+052544,HCC 15 NC,,4944.74,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052544.cat
+052545,DNC 3,,4400.592,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052545.cat
+052546,HNCC 13 C,,4500.933,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052546.cat
+052547,HNC 13 CC,,4643.584,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052547.cat
+052548,HN 13 CCC,,4655.745,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e052548.cat
+053501,AlNC,,5984.6768,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053501.cat
+053502,SiCCH,,5436.662,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053502.cat
+053503,"HC 13 C 13 CN, v = 0",,4510.324,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053503.cat
+053504,"H 13 CC 13 CN, v = 0",,4388.787,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053504.cat
+053505,AlCN,,5025.41,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053505.cat
+053506,HCC 13 C 15 N,,4400.741,15.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053506.cat
+053507,t -HC 3 O,261120.0,4577.477,4489.053,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053507.cat
+053508,"H 13 C 13 CCN, v = 0",,4392.16,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053508.cat
+053509,Si 13 CC,50456.0,12872.6,10182.4,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053509.cat
+053510,29 SiC 2,52473.0,12948.8,10308.8,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053510.cat
+053511,D 13 CCCN,,4107.209,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053511.cat
+053512,DC 13 CCN,,4207.555,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053512.cat
+053513,DCC 13 CN,,4202.519,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053513.cat
+053514,DC 3 15 N,,4100.382,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053514.cat
+053515,"C 2 H 3 CN, v = 0",49850.697,4971.164,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053515.cat
+053516,13 CCCO,,4632.84,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053516.cat
+053517,C 13 CCO,,4784.24,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053517.cat
+053518,CC 13 CO,,4798.0,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053518.cat
+053519,NCCNH +,,4438.011,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053519.cat
+053520,52 CrH,,183825.1,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053520.cat
+053521,CH 2 D 37 Cl,119834.9,12278.063,11985.513,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053521.cat
+053522,HC 3 O +,,4460.588,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053522.cat
+053523,Z -HC 3 HNH,54640.14,4862.363,4458.25,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053523.cat
+053524,E -HC 3 HNH,63099.22,4766.558,4425.561,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e053524.cat
+054501,SiCN,,5543.414,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054501.cat
+054502,SiNC,,6396.685,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054502.cat
+054503,l -H 2 C 3 O,153430.9,4387.33,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054503.cat
+054504,c -H 2 C 3 O,32040.686,7825.001,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054504.cat
+054505,30 SiC 2,52471.0,12753.2,10184.4,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054505.cat
+054506,"H 2 13 CCHCN, v = 0",49195.3,4837.58,4398.24,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054506.cat
+054507,"H 2 C 13 CHCN, v = 0",48639.7,4948.98,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054507.cat
+054508,"H 2 CCH 13 CN, v = 0",49799.6,4948.37,4494.65,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054508.cat
+054509,H 2 CCHC 15 N,49655.9,4819.67,4387.05,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054509.cat
+054510,HCCCHO,68035.258,4826.224,4499.592,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054510.cat
+054511,C 3 18 O,,4572.29,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054511.cat
+054512,E -HNCHCN,62700.4,4972.046,4600.295,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054512.cat
+054513,Z -HNCHCN,54193.4,5073.866,4632.389,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054513.cat
+054514,H 2 CNCN,63373.0,5449.348,5009.56,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054514.cat
+054515,NCCND +,,4158.32,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054515.cat
+054516,NC 13 CNH +,,4422.44,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054516.cat
+054517,N 13 CCNH +,,4417.17,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054517.cat
+054518,CH 2 CHCNH +,46210.0,4791.14,4334.79,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054518.cat
+054519,C 2 H 5 CCH,27147.79,4546.519,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054519.cat
+054520,c -H 2 C 2 Si,33504.8,11899.42,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054520.cat
+054521,H 2 C 2 Si,292300.0,5331.954,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054521.cat
+054522,HSiCCH,225200.0,5250.9,5126.94,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054522.cat
+054523,NCCO,178470.0,4798.0,4673.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e054523.cat
+055501,HC(O)CN,67469.68,5010.19,4656.6,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055501.cat
+055502,"C 2 H 5 CN, v = 0",27663.68,4714.188,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055502.cat
+055503,CCP,,6383.32,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055503.cat
+055504,C 3 F,199954.0,4607.3,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055504.cat
+055505,HSiCN,227305.0,5369.796,5240.474,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055505.cat
+055506,HSiNC,224123.0,6209.877,6036.356,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055506.cat
+055507,C 2 H 5 NC,27760.009,5117.292,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055507.cat
+055508,NaS,,6100.8,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055508.cat
+055509,HCCCH 2 NH 2,29620.01,4595.149,4160.603,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055509.cat
+055510,c -HDC 3 O,28049.09,7510.316,5916.182,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055510.cat
+055511,c -H 2 C 2 13 CO,32040.14,7816.553,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055511.cat
+055512,c -H 2 13 CCCO,31174.39,7709.476,6172.747,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055512.cat
+055513,"C 2 H 5 CN, v 20 = 1-A",27445.34,4715.646,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055513.cat
+055514,"C 2 H 5 CN, v 12 = 1-A",28082.04,4707.356,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055514.cat
+055515,DCCCHO,66778.0,4463.79,4177.86,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055515.cat
+055516,HCCCDO,51768.3,4791.55,4378.81,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055516.cat
+055517,HCC 13 CHO,66265.2,4805.4,4473.4,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055517.cat
+055518,HC 13 CCHO,67964.7,4802.7,4478.9,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055518.cat
+055519,H 13 CCCHO,67817.1,4667.4,4360.3,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055519.cat
+055520,Allylimine-Ta,45773.645,4560.931,4148.249,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e055520.cat
+056501,HCCP,,5623.116,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056501.cat
+056502,CCS,,6477.75,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056502.cat
+056503,ONCN,81216.2,5384.55,5040.66,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056503.cat
+056504,"C 2 H 5 13 CN, v = 0",27635.425,4689.888,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056504.cat
+056505,"CH 3 13 CH 2 CN, v = 0",27045.848,4697.934,4207.124,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056505.cat
+056506,"13 CH 3 CH 2 CN, v = 0",27342.643,4598.041,4133.767,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056506.cat
+056507,"H 2 NCH 2 CN, v = 0",30246.49,4761.06,4310.75,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056507.cat
+056508,C 2 H 5 C 15 N,27541.91,4574.807,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056508.cat
+056509,CH 3 CHDCN,24449.07,4661.376,4155.484,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056509.cat
+056510,CH 2 D ip CH 2 CN,27651.29,4425.125,4000.821,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056510.cat
+056511,CH 2 D oop CH 2 CN,25022.92,4583.47,4110.264,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056511.cat
+056512,13 CCP,,6102.23,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056512.cat
+056513,C 13 CP,,6351.73,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056513.cat
+056514,KOH,,8208.69,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056514.cat
+056515,"CaO, v = 0, 1",,13274.7,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056515.cat
+056516,Fe,,,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056516.cat
+056517,Fe +,,,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056517.cat
+056518,SiH 3 CCH,84740.5,4828.66,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056518.cat
+056519,trans -C 2 H 3 CHO,47353.71,4659.488,4242.701,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056519.cat
+056520,"H 2 NCH 2 CN, v 11 + v 18 = 1",30298.2,4776.61,4316.64,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056520.cat
+056521,"H 2 NCH 2 CN, v 17 = 1",30143.69,4764.237,4316.433,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056521.cat
+056522,NaSH,292833.0,6065.019,5927.774,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056522.cat
+056523,c -H 2 C 3 18 O,32040.34,7344.877,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056523.cat
+056524,c -D 2 C 3 O,24535.52,7254.942,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056524.cat
+056525,"MgS, v = 0, 1",,8006.927,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056525.cat
+056526,(CH 3 ) 2 CCH 2,1.0,8381.875,4615.977,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e056526.cat
+057501,CaOH,,10023.084,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057501.cat
+057502,HDNCH 2 CN,27580.8,4631.37,4188.67,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057502.cat
+057503,SiH 3 CN,84740.5,4973.005,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057503.cat
+057504,PCN,,5769.46,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057504.cat
+057505,"CH 3 NCO, v b = 0",128400.0,4414.63,4256.75,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057505.cat
+057506,"CH 3 NCO, v b = 1",128400.0,4414.63,4256.75,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057506.cat
+057507,"CH 3 13 CH 2 13 CN, v = 0",27021.859,4673.124,4186.642,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057507.cat
+057508,"13 CH 3 CH 2 13 CN, v = 0",27314.275,4572.984,4112.859,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057508.cat
+057509,"13 CH 3 13 CH 2 CN, v = 0",26713.8,4584.33,4107.934,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057509.cat
+057510,CH 3 CNO,1.0,3914.8,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057510.cat
+057511,CH 3 OCN,38989.4,5322.25,4821.31,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057511.cat
+057512,HOCH 2 CN,33609.53,4838.014,4377.305,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057512.cat
+057513,H 2 NCH 2 13 CN,30210.5,4735.07,4288.71,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057513.cat
+057514,H 2 N 13 CH 2 CN,29560.3,4744.27,4282.68,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057514.cat
+057515,HCCS,,5875.567,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057515.cat
+057516,MgSH,288992.0,6799.7,6629.66,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057516.cat
+057517,HCCS +,,6021.899,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057517.cat
+057518,"25 MgS, v = 0",,7823.97,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057518.cat
+057519,E -1-C 3 H 6 NH,24185.24,4292.554,4156.599,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057519.cat
+057520,Z -1-C 3 H 6 NH,23925.3,4260.98,4129.23,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057520.cat
+057521,CH 3 C(NH)CH 3,9709.083,8478.034,4789.524,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e057521.cat
+058501,H 2 C 2 S,286520.0,5659.476,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058501.cat
+058502,"NaCl, v = 0 – 15",,6513.049,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058502.cat
+058503,"KF, v = 0, 1",,8357.364,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058503.cat
+058504,NCS,,6106.62,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058504.cat
+058505,"s -C 2 H 5 CHO, v = 0",16669.63,5893.504,4598.982,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058505.cat
+058506,41 KOH,,8088.9,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058506.cat
+058507,CH 3 CP,158099.0,4991.343,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058507.cat
+058508,D 2 NCH 2 CN,25377.7,4505.14,4082.17,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058508.cat
+058509,dibridged Si 2 H 2,1.0,7281.201,7199.859,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058509.cat
+058510,monobridged Si 2 H 2,262133.0,7361.778,7161.919,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058510.cat
+058511,SiH 3 13 CN,84740.5,4946.23,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058511.cat
+058512,29 SiH 3 CN,84740.5,4915.18,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058512.cat
+058513,cis -C 2 H 2 O 2,26713.36,6190.77,5032.48,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058513.cat
+058514,H 3 CCHCH 2 O,18023.89,6682.14,5951.39,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058514.cat
+058515,c -C 3 H 6 O,12045.46,11734.05,6730.66,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058515.cat
+058516,13 CH 3 13 CH 2 13 CN,26689.77,4558.801,4086.861,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058516.cat
+058517,"s -C 2 H 5 CHO, v 24 = 1",16712.06,5857.196,4595.25,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058517.cat
+058518,"s -C 2 H 5 CHO, v 23 = 1",16642.87,5871.18,4592.799,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058518.cat
+058519,"g -C 2 H 5 CHO, v = 0",26250.7,4314.92,4148.02,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058519.cat
+058520,HCCSH,291414.6,5547.541,5438.445,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058520.cat
+058521,"26 MgS, v = 0",,7655.75,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058521.cat
+058522,"Mg 34 S, v = 0",,7805.6,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058522.cat
+058523,DCCS,,5359.817,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e058523.cat
+059501,MgCl,,7339.105,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059501.cat
+059502,CaF,,10267.54,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059502.cat
+059503,"HNCS, a -type",1348662.0,5883.46,5846.61,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059503.cat
+059504,"HNCS, b -type",1348662.0,5883.46,5846.61,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059504.cat
+059505,HSCN,289830.0,5794.714,5674.94,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059505.cat
+059506,C 2 Cl,,6308.7,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059506.cat
+059507,AlS,,8368.544,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059507.cat
+059508,30 SiH 3 CN,84740.5,4860.71,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059508.cat
+059509,H 2 PCN,129670.0,5289.28,5264.58,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059509.cat
+059510,HCNS,,6151.444,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059510.cat
+059511,HSNC,286000.0,6348.1,6209.9,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059511.cat
+059512,"Na 36 Cl, v = 0 – 5",,6441.398,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059512.cat
+059513,H 2 C 13 CS,286687.0,5642.64,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059513.cat
+059514,H 2 13 CCS,286687.0,5456.72,5349.78,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059514.cat
+059515,HDC 2 S,199290.0,5323.08,5177.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059515.cat
+059516,13 CH 3 C(O)CH 3,10083.033,8277.507,4811.469,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059516.cat
+059517,HNSiO,754053.0,6720.3,6649.28,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059517.cat
+059518,"CH 3 C(O)NH 2 , v t = 0",10771.96,9334.594,5156.779,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059518.cat
+059519,"CH 3 C(O)NH 2 , v t = 1",10771.96,9334.594,5156.779,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059519.cat
+059520,"CH 3 C(O)NH 2 , v t = 2",10771.96,9334.594,5156.779,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059520.cat
+059521,"CH 3 C(O)NH 2 , Δ v t > 0",10771.96,9334.594,5156.779,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e059521.cat
+060501,"CH 2 (OH)CHO, v = 0",18446.26,6525.997,4969.236,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060501.cat
+060502,"Na 37 Cl, v = 0 – 15",,6373.741,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060502.cat
+060503,"OCS, v = 0",,6081.492,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060503.cat
+060504,"OCS, v 2 = 1",,6092.078,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060504.cat
+060505,Ga-n -C 3 H 7 OH,14330.37,5119.281,4324.225,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060505.cat
+060506,"SiS, v = 0 – 20",,9077.455,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060506.cat
+060507,"SiS, v = 1 – 0 and v = 2 – 1 bands",,9077.455,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060507.cat
+060508,"SiS, v = 2 – 0 band",,9077.455,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060508.cat
+060509,c -C 2 H 4 S,21973.631,10824.925,8026.218,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060509.cat
+060510,"DNCS, a -type",706294.0,5500.44,5445.22,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060510.cat
+060511,"DNCS, b -type",706294.0,5500.44,5445.22,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060511.cat
+060512,"HN 13 CS, a -type",1345600.0,5864.55,5826.89,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060512.cat
+060513,"H 15 NCS, a -type",1330600.0,5688.69,5652.98,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060513.cat
+060514,HS 13 CN,289830.0,5765.033,5646.446,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060514.cat
+060515,DSCN,151800.0,5705.1,5489.249,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060515.cat
+060516,HSC 15 N,289830.0,5585.6,5470.1,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060516.cat
+060517,"OC(NH 2 ) 2 , v = 0",11233.303,10369.395,5416.628,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060517.cat
+060518,g-i -C 3 H 7 OH,8639.542,8063.218,4768.249,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060518.cat
+060519,a-i -C 3 H 7 OH,8489.016,8041.924,4765.231,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060519.cat
+060520,AlSH,287674.0,6796.989,6626.413,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060520.cat
+060521,syn -C 2 H 3 SH,49816.04,5835.709,5222.076,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060521.cat
+060522,anti -C 2 H 3 SH,49423.57,5897.212,5279.44,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060522.cat
+060523,"CH 3 COOH, v t = 0",11324.236,9494.193,5326.132,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060523.cat
+060524,"CH 3 COOH, v t = 1",11324.236,9494.193,5326.132,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060524.cat
+060525,"CH 3 COOH, v t = 2",11324.236,9494.193,5326.132,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060525.cat
+060526,"CH 3 COOH, Δ v t ≠ 0",11324.236,9494.193,5326.132,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060526.cat
+060527,"44 TiO, v = 0",,16366.087,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060527.cat
+060528,"44 TiO, v = 1",,16271.764,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060528.cat
+060529,"CH 2 (OH)CHO, v 18 = 1",18463.55,6482.543,4965.052,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060529.cat
+060530,"CH 2 (OH)CHO, v 12 = 1",18576.57,6477.99,4938.519,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060530.cat
+060531,"CH 2 (OH)CHO, v 17 = 1",18524.86,6445.627,4933.539,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060531.cat
+060532,H 2 CC 34 S,286687.0,5531.58,5421.7,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060532.cat
+060533,"OC(NH 2 ) 2 , v 1",11208.967,10361.077,5419.071,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060533.cat
+060534,"OC(NH 2 ) 2 , v 2 & v 3",11253.907,10339.907,5412.65,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060534.cat
+060535,"OC(NH 2 ) 2 , v 4 & v 5",11190.4,10333.087,5417.132,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060535.cat
+060536,HPCO,255645.0,5559.5,5434.99,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e060536.cat
+061501,PNO,,6190.18,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061501.cat
+061502,O 13 CS,,6061.92,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061502.cat
+061503,OC 33 S,,6004.92,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061503.cat
+061504,17 OCS,,5883.67,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061504.cat
+061505,C 5 H,,2395.127,5.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061505.cat
+061506,"29 SiS, v = 0 – 12",,8910.662,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061506.cat
+061507,"29 SiS, v = 1 – 0 band",,8910.662,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061507.cat
+061508,"Si 33 S, v = 0 – 9",,8949.214,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061508.cat
+061509,HSCO +,279447.7,5696.746,5576.979,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061509.cat
+061510,HOCS +,782696.0,5750.38,5702.94,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061510.cat
+061511,C 2 37 Cl,,6185.81,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061511.cat
+061512,HSiS,305695.0,8410.87,8168.03,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061512.cat
+061513,CH 2 (OH) 13 CHO,18259.42,6472.44,4924.61,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061513.cat
+061514,13 CH 2 (OH)CHO,18142.35,6486.37,4924.03,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061514.cat
+061515,"CH 3 O 13 CHO, v t = 0, 1",19741.205,6898.138,5275.511,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061515.cat
+061516,CH 2 (OD)CHO,17490.68,6499.73,4882.95,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061516.cat
+061517,CHD(OH)CHO,16987.8,6385.43,4843.81,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061517.cat
+061518,CH 2 (OH)CDO,17151.0,6362.87,4778.92,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061518.cat
+061519,"HNC 34 S, a -type",1348500.0,5744.83,5708.74,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061519.cat
+061520,H 34 SCN,289830.0,5664.476,5549.725,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061520.cat
+061521,ScO,,15393.39,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061521.cat
+061522,26 AlCl v = 0 – 2,,7445.932,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061522.cat
+061523,HC(S)NH 2,61754.78,6101.766,5549.863,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061523.cat
+061524,c -C 3 CCH,45018.0,3504.064,3246.94,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061524.cat
+061525,HC(O)OCH 2 D,18516.681,6730.196,5164.955,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061525.cat
+061526,DC(O)OCH 3,18475.678,6768.437,5109.725,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e061526.cat
+062501,l -C 5 H 2,277600.0,2304.7845,2285.805,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062501.cat
+062502,TiN,,18589.351,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062502.cat
+062503,aGg' -(CH 2 OH) 2,15361.186,5588.243,4614.49,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062503.cat
+062504,gGg' -(CH 2 OH) 2,15210.06,5542.43,4595.44,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062504.cat
+062505,OC 34 S,,5932.83,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062505.cat
+062506,18 OCS,,5704.86,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062506.cat
+062507,O 13 C 33 S,,5984.56,33.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062507.cat
+062508,"Si 34 S, v = 0 – 12",,8828.865,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062508.cat
+062509,"Si 34 S, v = 1 – 0 band",,8828.865,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062509.cat
+062510,"30 SiS, v = 0 – 12",,8755.333,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062510.cat
+062511,"30 SiS, v = 1 – 0 band",,8755.333,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062511.cat
+062512,29 Si 33 S,,8782.417,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062512.cat
+062513,H 2 SiS,1.0,8030.955,7658.006,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062513.cat
+062514,C 4 N,,2424.36,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062514.cat
+062515,trans -HC(O)SH,62036.09,6125.305,5569.642,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062515.cat
+062516,cis -HC(O)SH,62927.71,6134.261,5584.754,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062516.cat
+062517,C 4 13 CH,,2327.858,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062517.cat
+062518,C 3 13 CCH,,2377.414,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062518.cat
+062519,C 2 13 CC 2 H,,2394.973,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062519.cat
+062520,C 13 CC 3 H,,2375.32,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062520.cat
+062521,13 CC 4 H,,2319.352,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062521.cat
+062522,C 5 D,,2262.129,5.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062522.cat
+062523,gauche -C 2 H 5 SH,28746.91,5294.878,4846.58,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062523.cat
+062524,anti -C 2 H 5 SH,28416.77,5485.766,4881.833,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062524.cat
+062525,DSCO +,145159.0,5618.18,5401.17,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062525.cat
+062526,AlCl v = 0 – 10,,7288.725,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062526.cat
+062527,CH 3 OCH 2 OH,17237.94,5567.669,4813.191,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062527.cat
+062528,"46 TiO, v = 0",,16177.068,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062528.cat
+062529,"46 TiO, v = 1",,16084.381,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062529.cat
+062530,"46 TiO, v = 2",,15991.135,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062530.cat
+062531,"46 TiO, v = 3",,15897.33,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062531.cat
+062532,c -C 3 HCCH,34638.81,3424.88,3113.64,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062532.cat
+062533,HC(O)OCHD 2,18482.354,6261.052,4884.201,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062533.cat
+062534,H 2 CSO,40404.5,9394.79,7607.15,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e062534.cat
+063501,l -HC 4 N,,2302.398,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e063501.cat
+063502,O 13 C 34 S,,5911.73,34.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e063502.cat
+063503,18 O 13 CS,,5691.07,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e063503.cat
+063504,"29 Si 34 S, v = 0, 1",,8662.064,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e063504.cat
+063505,30 Si 33 S,,8627.084,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e063505.cat
+063506,c -C 3 HCN,34281.4,3513.37,3183.59,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e063506.cat
+063507,26 Al 37 Cl v = 0 – 2,,7288.725,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e063507.cat
+063508,Al 36 Cl v = 0 – 2,,7200.664,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e063508.cat
+063509,"47 TiO, v = 0",,16088.343,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e063509.cat
+063510,"47 TiO, v = 1",,15996.42,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e063510.cat
+063511,"47 TiO, v = 2",,15903.944,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e063511.cat
+063512,"47 TiO, v = 3",,15810.917,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e063512.cat
+063513,"SiCl + , v = 0, 1",,8582.04,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e063513.cat
+063514,HNSO,49315.86,9869.759,8205.147,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e063514.cat
+063515,cis -HSNO,68043.5,6289.206,5749.964,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e063515.cat
+063516,trans -HSNO,70594.9,6176.187,5672.515,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e063516.cat
+063517,aGg' -CH 2 OHCH 2 OD,14620.25,5548.42,4517.883,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e063517.cat
+064501,p-c -SiC 3,1.0,6284.94,5388.84,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064501.cat
+064502,"SO 2 , v = 0",60778.55,10318.074,8799.703,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064502.cat
+064503,"SO 2 , v 2 = 1",61954.816,10320.397,8783.856,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064503.cat
+064504,"TiO, v = 0",,16003.56,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064504.cat
+064505,l -SiC 3,,2747.71,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064505.cat
+064506,CuH,,234357.73,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064506.cat
+064507,CH 3 C 4 H,159140.0,2035.747,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064507.cat
+064508,ScF,,11806.8,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064508.cat
+064509,H 2 C 4 N,,1.0,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064509.cat
+064510,OC 36 S,,5799.69,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064510.cat
+064511,18 OC 34 S,,5559.97,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064511.cat
+064512,"SO 2 , ν 2",55.0,10318.074,8799.703,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064512.cat
+064513,"30 Si 34 S, v = 0, 1",,8506.726,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064513.cat
+064514,Si 36 S,,8607.497,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064514.cat
+064515,KCCH,,2970.831,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064515.cat
+064516,o-c -SiC 3,1.0,11345.2,5936.2,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064516.cat
+064517,gauche -C 2 H 5 34 SH,28708.9,5175.22,4845.4,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064517.cat
+064518,CrC,,19480.74,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064518.cat
+064519,Al 37 Cl v = 0 – 10,,7117.512,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064519.cat
+064520,H 2 C(CCH) 2,19076.75,2859.29,2520.861,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064520.cat
+064521,"TiO, v = 1",,15912.365,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064521.cat
+064522,"TiO, v = 2",,15820.624,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064522.cat
+064523,"TiO, v = 3",,15728.34,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064523.cat
+064524,"TiO, v = 4",,15635.5,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064524.cat
+064525,"TiO, v = 5",,15542.12,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064525.cat
+064526,H 2 C 3 HCCH,25965.0,2616.376,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064526.cat
+064527,HC 3 HCN,29173.01,2807.945,2256.929,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064527.cat
+064528,CaC 2,1.0,7551.4,6582.8,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e064528.cat
+065501,33 SO 2,59856.479,10318.298,8780.139,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065501.cat
+065502,SO 17 O,59883.729,10008.214,8555.137,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065502.cat
+065503,CH 3 C 3 N,158099.0,2065.74,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065503.cat
+065504,ZnH,,196292.99,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065504.cat
+065505,CH 3 CCNC,157151.0,2065.74,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065505.cat
+065506,H 2 CCCHCN,25981.0,2689.27,2474.82,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065506.cat
+065507,29 Si 36 S,,8440.688,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065507.cat
+065508,"KCN, KNC",58265.83,4939.671,4535.832,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065508.cat
+065509,HS 2,296978.96,7996.104,7776.999,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065509.cat
+065510,cis -HOSO +,44183.5,9899.77,8070.1,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065510.cat
+065511,CaCCH,,3396.491,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065511.cat
+065512,SiC 3 H,,2604.88,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065512.cat
+065513,HC 4 O,,2279.914,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065513.cat
+065514,HCCCH 2 CN,19820.19,2909.594,2573.225,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065514.cat
+065515,"49 TiO, v = 0",,15.0,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065515.cat
+065516,"49 TiO, v = 1",,15831.432,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065516.cat
+065517,"49 TiO, v = 2",,15740.396,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065517.cat
+065518,"49 TiO, v = 3",,15.0,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065518.cat
+065519,H 2 C=C=CHNC,28069.76,2813.63,2599.003,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e065519.cat
+066501,34 SO 2,58991.182,10318.51,8761.302,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066501.cat
+066502,SO 18 O,59101.176,9724.597,8331.607,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066502.cat
+066503,CaNC,,4048.755,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066503.cat
+066504,65 CuH,,234245.09,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066504.cat
+066505,30 Si 36 S,,8285.343,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066505.cat
+066506,H 2 C(CN) 2,20882.76,2942.288,2616.738,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066506.cat
+066507,H 2 S 2,146858.11,6970.426,6967.686,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066507.cat
+066508,SiC 2 N,,2639.73,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066508.cat
+066509,H 2 C 4 O,282000.0,2160.72,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066509.cat
+066510,DS 2,155409.6,7795.28,7410.92,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066510.cat
+066511,52 CrN,,18702.9,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066511.cat
+066512,"50 TiO, v = 0",,15843.793,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066512.cat
+066513,"50 TiO, v = 1",,15753.966,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066513.cat
+066514,"50 TiO, v = 2",,15663.603,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066514.cat
+066515,"50 TiO, v = 3",,15572.704,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066515.cat
+066516,"Ti 18 O, v = 0",,14669.614,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066516.cat
+066517,"Ti 18 O, v = 1",,14589.62,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066517.cat
+066518,"Ti 18 O, v = 2",,14509.166,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066518.cat
+066519,"Ti 18 O, v = 3",,14428.254,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066519.cat
+066520,"c -C 5 H 6 , v = 0",8426.109,8225.64,4271.437,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066520.cat
+066521,CH 2 DC 3 N,120121.0,1993.494,1985.264,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066521.cat
+066522,H 2 NC 3 N,317955.0,2118.55,2106.15,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066522.cat
+066523,H 2 C 3 Si,1.0,2518.36,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066523.cat
+066524,NC 3 O,119116.0,2412.0,2364.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e066524.cat
+067501,66 ZnH,,196201.93,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e067501.cat
+067502,NCHCCO,29601.18,2812.149,2563.722,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e067502.cat
+067503,c -C 3 H 5 CN,15796.097,3465.1162,3286.2501,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e067503.cat
+067504,c -C 4 H 4 NH,9130.632,9001.364,4532.11,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e067504.cat
+067505,HCCNSi,,2844.83,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e067505.cat
+067506,48 TiF,,11040.097,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e067506.cat
+067507,c -C 5 H 6 - 13 C 1,8420.043,8040.433,1.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e067507.cat
+067508,c -C 5 H 6 - 13 C 2,8345.133,8108.711,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e067508.cat
+067509,c -C 5 H 6 - 13 C 5,8226.053,8219.483,5.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e067509.cat
+067510,c -C 5 H 6 -D 1,8414.05,7591.89,4091.15,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e067510.cat
+067511,c -C 5 H 6 -D 2,8307.04,7678.12,4090.26,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e067511.cat
+067512,c -C 5 H 6 -D 5,8129.95,7859.54,4145.09,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e067512.cat
+067513,E-CH 3 CHCHCN,38054.0,2297.077,2195.187,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e067513.cat
+067514,s-CH 2 CHCH 2 CN,11322.988,3739.337,2858.543,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e067514.cat
+067515,g-CH 2 CHCH 2 CN,19707.694,2619.84,2497.513,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e067515.cat
+068501,FeC,,20173.4,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e068501.cat
+068502,HC 3 P,,2656.3933,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e068502.cat
+068503,"C 3 S, v = 0",,2890.38,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e068503.cat
+068504,"C 3 O 2 , ν 7",,2265.359,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e068504.cat
+068505,"C 3 S, v 5 = 1",,2902.705,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e068505.cat
+068506,H 2 CNCH 2 CN,12318.415,3912.427,3022.365,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e068506.cat
+068507,c -C 4 H 4 O,9447.123,9246.744,4670.825,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e068507.cat
+068508,"Si 2 C, v = 0",64074.3,4395.52,4102.13,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e068508.cat
+068509,NCNSi,,2909.423,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e068509.cat
+068510,52 CrO,,15722.03,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e068510.cat
+068511,NCCNO,,2310.998,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e068511.cat
+068512,HNC(CH 3 )CN,9812.18,4168.227,2975.169,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e068512.cat
+068513,CH 2 CHCHCO,39532.83,2392.93,2256.002,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e068513.cat
+069501,NC 2 P,,2704.4802,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069501.cat
+069502,C 13 CCS,,2861.371,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069502.cat
+069503,13 CCCS,,2783.062,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069503.cat
+069504,68 ZnH,,196116.14,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069504.cat
+069505,"n -C 3 H 7 CN, v = 0",23668.32,2268.147,2152.963,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069505.cat
+069506,i -C 3 H 7 CN,7940.877,3968.088,2901.053,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069506.cat
+069507,CC 13 CS,,2890.385,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069507.cat
+069508,"g-n -C 3 H 7 CN, v 30 = 1",10119.06,3259.724,2700.286,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069508.cat
+069509,"a-n -C 3 H 7 CN, v 30 = 1",22857.46,2269.599,2157.969,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069509.cat
+069510,"g-n -C 3 H 7 CN, v 29 = 1",10084.14,3270.156,2705.891,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069510.cat
+069511,"a-n -C 3 H 7 CN, v 18 = 1",24406.4,2273.305,2154.939,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069511.cat
+069512,"g-n -C 3 H 7 CN, v 30 = 2",10181.43,3251.182,2694.952,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069512.cat
+069513,"a-n -C 3 H 7 CN, v 30 = 2",22140.1,2271.215,2163.133,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069513.cat
+069514,"g-n -C 3 H 7 CN, v 28 = 1",10023.5,3269.91,2705.28,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069514.cat
+069515,"a-n -C 3 H 7 CN, v 29 = 1",23667.6,2265.828,2151.469,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069515.cat
+069516,"i -C 3 H 7 CN, v 30 = 1",7896.75,3980.03,2899.86,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069516.cat
+069517,HC 3 S,,2688.47,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069517.cat
+069518,c -C 2 H 3 (O)CN,18456.28,3524.701,3367.814,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069518.cat
+069519,HC 3 S +,,2735.463,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069519.cat
+069520,t -C 2 H 3 NCO,62586.31,2437.747,2346.478,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069520.cat
+069521,cis -C 2 H 3 NCO,20144.1,3107.453,2689.427,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e069521.cat
+070501,NiC,,19116.22,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070501.cat
+070502,C 3 34 S,,2820.369,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070502.cat
+070503,H 2 C 3 S,285.0,2539.278,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070503.cat
+070504,NCC(O)NH 2,11328.38,4280.639,3103.027,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070504.cat
+070505,CH 3 CH(NH 2 )CN,8329.21,3984.325,2945.429,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070505.cat
+070506,C 13 C 13 CS,,2861.4,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070506.cat
+070507,13 CC 13 CS,,2783.092,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070507.cat
+070508,i -C 3 H 7 13 CN,7939.3,3939.12,2885.73,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070508.cat
+070509,(CH 3 ) 2 13 CHCN,7921.8,3956.55,2897.62,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070509.cat
+070510,13 CH 3 (CH 3 )CHCN,7747.3,3927.94,2854.37,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070510.cat
+070511,HC 2 CHS,42652.029,3109.382,2894.265,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070511.cat
+070512,56 FeN,,18085.79,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070512.cat
+070513,"NH 2 CH 2 CH 2 CN, conf. I",10526.536,3387.385,2781.575,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070513.cat
+070514,"NH 2 CH 2 CH 2 CN, conf. II",10281.325,3367.743,2761.075,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070514.cat
+070515,NCCS,186470.0,2851.0,2808.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070515.cat
+070516,c -H 2 C 3 S,32121.0,4080.327,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070516.cat
+070517,H 3 C 2 CHCH 2 O,17367.29,3138.208,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070517.cat
+070601,54 FeO Ω = 4,,15620.85,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070601.cat
+070602,54 FeO Ω = 3,,15620.85,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070602.cat
+070603,54 FeO Ω = 2,,15620.85,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e070603.cat
+071501,CoC,,20798.17,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e071501.cat
+071502,C 3 Cl,182319.0,2870.63,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e071502.cat
+071503,CC 13 C 34 S,,2820.291,34.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e071503.cat
+071504,C 13 CC 34 S,,2790.961,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e071504.cat
+071505,13 CCC 34 S,,2714.81,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e071505.cat
+071506,KS,,3626.35,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e071506.cat
+071507,52 CrF,,11369.61,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e071507.cat
+071508,C 2 H 5 NCO,14114.81,3067.183,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e071508.cat
+071509,HC(S)CN,42913.789,3195.402,2970.131,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e071509.cat
+071510,"syn -C 2 H 3 C(O)NH 2 , v = 0",10732.82,4218.683,3030.759,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e071510.cat
+071511,"syn -C 2 H 3 C(O)NH 2 , v 24 = 1",10660.712,4216.456,3038.071,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e071511.cat
+071512,H 2 C 2 13 CS,285.0,2539.283,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e071512.cat
+071513,H 2 C 13 CCS,285.0,2520.081,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e071513.cat
+071514,H 2 13 CC 2 S,285.0,2459.381,2437.245,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e071514.cat
+071515,HDC 3 S,186.0,2421.049,2390.163,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e071515.cat
+071516,CH 3 CH(OH)CN,8790.21,4005.839,2975.816,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e071516.cat
+072501,"CaS, v = 0, 1",,5284.19,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e072501.cat
+072502,s- cis -H 2 C=CHCOOH,11078.87,4251.97,3073.4,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e072502.cat
+072503,s- trans -H 2 C=CHCOOH,10716.2,4388.3,3114.31,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e072503.cat
+072504,HOCHCHCHO,9839.956,5185.627,3393.807,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e072504.cat
+072505,C 2 H 3 OCHO,20391.48,3184.151,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e072505.cat
+072506,KSH,298300.0,3584.736,3535.01,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e072506.cat
+072507,H 2 C 3 34 S,285.0,2476.93,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e072507.cat
+072508,H 2 C=C(OH)CHO,10201.688,4543.326,3141.795,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e072508.cat
+072509,"C 2 H 5 CP, v = 0",25216.12,2709.143,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e072509.cat
+072510,c -H 2 C 3 34 S,32121.0,3965.026,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e072510.cat
+072511,C 2 H 3 CHS,45777.04,2795.968,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e072511.cat
+072512,HC(O)- c -C 2 H 3 O; v = 0,18241.104,3272.93,3137.716,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e072512.cat
+072513,HC(O)- c -C 2 H 3 O; v 21 = 1,18102.26,3285.825,3142.876,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e072513.cat
+072601,FeO Ω = 4,,15493.699,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e072601.cat
+072602,FeO Ω = 3,,15493.699,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e072602.cat
+072603,FeO Ω = 2,,15493.699,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e072603.cat
+073501,"C 6 H, v = 0",,1391.187,6.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e073501.cat
+073502,C 6 H –,,1376.863,6.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e073502.cat
+073503,HSCH 2 CN,23110.6,3105.17,2820.75,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e073503.cat
+073504,CaSH,290607.0,4253.69,4184.95,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e073504.cat
+073505,MgC 4 H,,1381.51,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e073505.cat
+073506,HC( 34 S)CN,42610.0,3116.75,2900.63,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e073506.cat
+073507,MgC 4 H +,,1448.6,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e073507.cat
+073508,NaC 3 N,,1321.094,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e073508.cat
+073509,"C 6 H, v 11 = 1 μ 2 Σ",,1394.64,6.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e073509.cat
+073510,"C 6 H, v 11 = 1 2 Δ",,1395.705,6.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e073510.cat
+073511,"13 CH 3 CH 2 CP, v = 0",24834.81,2641.072,2457.886,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e073511.cat
+073512,"CH 3 13 CH 2 CP, v = 0",24696.03,2686.014,2495.328,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e073512.cat
+073513,"C 2 H 5 13 CP, v = 0",25115.37,2708.971,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e073513.cat
+073514,HCCSO,29720.35,3966.675,3492.584,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e073514.cat
+073515,HC(O)- c - 13 CHCH 2 O,18099.3,3267.164,3136.601,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e073515.cat
+073516,HC(O)- c -CH 13 CH 2 O,17907.6,3230.499,3089.309,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e073516.cat
+073517,H 13 C(O)- c -CHCH 2 O,18156.6,3250.529,3119.439,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e073517.cat
+074501,C 5 N,,1403.08,5.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074501.cat
+074502,l -C 6 H 2,268400.0,1348.0891,1341.3519,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074502.cat
+074503,aa -(C 2 H 5 ) 2 O,17956.157,2244.2246,2101.7946,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074503.cat
+074504,NiO,,15164.61,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074504.cat
+074505,"39 K 35 Cl, v = 0 – 15",,3856.368,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074505.cat
+074506,13 CC 5 H,,1351.96,6.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074506.cat
+074507,C 13 CC 4 H,,1376.08,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074507.cat
+074508,C 2 13 CC 3 H,,1389.43,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074508.cat
+074509,C 3 13 CC 2 H,,1389.98,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074509.cat
+074510,C 4 13 CCH,,1377.55,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074510.cat
+074511,C 5 13 CH,,1355.2,5.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074511.cat
+074512,C 6 D,,1327.85,6.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074512.cat
+074513,C 5 N –,,1388.86,5.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074513.cat
+074514,C 2 H 5 OCHO,17746.69,2904.735,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074514.cat
+074515,ag -(C 2 H 5 ) 2 O,13572.09,2495.414,2340.393,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074515.cat
+074516,CHOCOOH,10966.86,4606.0,3242.16,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074516.cat
+074517,CH 3 OCH 2 CHO,28475.79,2296.368,2187.606,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074517.cat
+074518,MgC 3 N,,1380.89,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074518.cat
+074519,CH 3 CHOHCHO,8433.075,4237.228,3145.218,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074519.cat
+074520,H 2 NCH 2 C(O)NH 2,9620.415,3989.42,2928.737,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074520.cat
+074521,HC 2 HC 4,21097.1,1676.268,1550.067,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074521.cat
+074522,MgC 3 N +,,1446.93,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074522.cat
+074523,CHSCHO,50880.0,2865.36,2713.582,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074523.cat
+074524,C 2 H 3 CH 34 S,45740.9,2725.497,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e074524.cat
+075501,HC 4 NC,,1401.182,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075501.cat
+075502,CaCl,,4551.78,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075502.cat
+075503,"HC 5 N, v = 0",,1331.3327,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075503.cat
+075504,"HC 5 N, v 11 = 1",,1334.118,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075504.cat
+075505,"HC 5 N, v 11 = 2",,1342.524,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075505.cat
+075506,"HC 5 N, v 10 = 1",,1333.785,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075506.cat
+075507,"HC 5 N, v 11 = 3",,1339.714,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075507.cat
+075508,"HC 5 N, v 11 = 4",,1336.912,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075508.cat
+075509,"HC 5 N, v 9 = 1",,1332.926,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075509.cat
+075510,"HC 5 N, ν 7",,1331.3327,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075510.cat
+075511,"H 2 NCH 2 COOH, I",10341.53,3876.18,2912.35,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075511.cat
+075512,"H 2 NCH 2 COOH, II",10130.15,4071.51,3007.49,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075512.cat
+075513,"HC 5 N, v 10 = v 11 = 1",,1336.576,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075513.cat
+075514,"HC 5 N, v 11 = 5",,1345.342,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075514.cat
+075515,"40 K 35 Cl, v = 0 – 5",,3810.765,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075515.cat
+075516,"39 K 36 Cl, v = 0 – 5",,3799.945,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075516.cat
+075517,HOCH 2 C(O)NH 2,10454.26,4041.15,2972.077,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075517.cat
+075518,g'Gg' -CH 3 CH(NH 2 )CH 2 OH,7948.488,3640.573,2747.741,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075518.cat
+075519,gG'g -CH 3 CH(NH 2 )CH 2 OH,7948.488,4144.433,3336.168,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075519.cat
+075520,HMgC 3 N,,1319.72,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075520.cat
+075521,HNC 5,,1361.75,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e075521.cat
+076501,NC 3 NC,,1409.9753,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076501.cat
+076502,SiC 4,,1533.772,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076502.cat
+076503,c -C 6 H 4,6989.73,5706.8,3140.37,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076503.cat
+076504,"39 K 37 Cl, v = 0 – 15",,3746.639,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076504.cat
+076505,"41 K 35 Cl, v = 0 – 15",,3767.444,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076505.cat
+076506,DC 5 N,,1271.0578,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076506.cat
+076507,H 13 CC 4 N,,1296.6762,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076507.cat
+076508,HC 13 CC 3 N,,1317.6895,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076508.cat
+076509,HC 2 13 CC 2 N,,1329.9539,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076509.cat
+076510,HC 3 13 CCN,,1330.1158,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076510.cat
+076511,HC 4 13 CN,,1318.1807,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076511.cat
+076512,HC 5 15 N,,1298.64,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076512.cat
+076513,aG'g -CH 3 CHOHCH 2 OH,8572.057,3640.1,2790.973,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076513.cat
+076514,CH 2 OHCOOH,10696.09,4051.03,2994.67,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076514.cat
+076515,gG'a -CH 3 CHOHCH 2 OH,8393.401,3648.56,2778.302,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076515.cat
+076516,g'G'g -CH 3 CHOHCH 2 OH,8536.772,3604.192,2778.338,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076516.cat
+076517,OSiS,,3730.472,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076517.cat
+076518,a'GG'g -CH 2 OHCH 2 CH 2 OH,7698.64,3893.56,2854.88,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076518.cat
+076519,gGG'g -CH 2 OHCH 2 CH 2 OH,7586.6,3881.74,2847.01,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076519.cat
+076520,g'Ga -CH 3 CHOHCH 2 OH,6642.448,4163.591,3365.366,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076520.cat
+076521,gG'g' -CH 3 CHOHCH 2 OH,8327.594,3641.994,2776.909,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076521.cat
+076522,aGg' -CH 3 CHOHCH 2 OH,6634.762,4160.629,3377.912,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076522.cat
+076523,g'Gg -CH 3 CHOHCH 2 OH,6627.615,4146.281,3363.35,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076523.cat
+076524,HC 5 NH +,,1295.816,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e076524.cat
+077501,29 SiC 4,,1510.23,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e077501.cat
+077502,Si 13 CC 3,,1532.051,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e077502.cat
+077503,SiC 13 CC 2,,1531.644,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e077503.cat
+077504,SiC 2 13 CC,,1515.893,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e077504.cat
+077505,SiC 3 13 C,,1486.449,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e077505.cat
+077506,C 2 H 3 C 3 N,39931.0,1376.633,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e077506.cat
+077507,( E )-HC 2 CHCHCN,46226.0,1472.154,1426.249,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e077507.cat
+077508,( Z )-HC 2 CHCHCN,7098.2,2682.6,1943.54,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e077508.cat
+077509,ScS,,5915.229,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e077509.cat
+077510,AlC 3 N,,1340.758,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e077510.cat
+077511,SiC 4 H,,1415.2,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e077511.cat
+077512,HC 5 O,,1293.6046,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e077512.cat
+077513,"40 K 37 Cl, v = 0 – 5",,3700.966,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e077513.cat
+077514,"41 K 36 Cl, v = 0 – 5",,3710.97,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e077514.cat
+077515,NC 4 NH +,,1293.908,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e077515.cat
+078501,30 SiC 4,,1488.026,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e078501.cat
+078502,46 TiO 2,31051.48,8471.56,6638.2,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e078502.cat
+078503,46 TiS,,6165.26,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e078503.cat
+078504,SiC 3 N,,1414.5,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e078504.cat
+078505,HC 4 CHO,55169.82,1340.853,1307.995,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e078505.cat
+078506,trans -HC(S)SH,49206.0,3447.53,3219.47,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e078506.cat
+078507,cis -HC(S)SH,48572.4,3498.75,3261.42,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e078507.cat
+078508,"41 K 37 Cl, v = 0 – 15",,3657.646,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e078508.cat
+078509,c -C 5 H 4 CH 2,8186.18,3802.743,2596.44,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e078509.cat
+078510,c -C 5 H 5 CH,7389.27,5275.94,3889.78,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e078510.cat
+078511,bc -C 4 H 4 C 2 H 2,7770.42,4479.32,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e078511.cat
+078512,c -C 4 H 2 (CH 2 ) 2,5569.899,4261.803,2413.543,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e078512.cat
+078513,H 2 C 4 Si,1.0,1391.411,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e078513.cat
+079501,c -C 5 H 5 N,6039.249,5804.909,2959.21,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e079501.cat
+079502,Z-CH 2 (CH) 3 CN,9759.446,2039.687,1686.177,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e079502.cat
+079503,E-CH 2 (CH) 3 CN,26243.03,1443.621,1368.119,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e079503.cat
+079504,anti -CH 2 CCHCH 2 CN,14498.43,1567.063,1515.789,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e079504.cat
+079505,syn -CH 2 CCHCH 2 CN,5967.2,2722.542,1914.2,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e079505.cat
+079506,CH 3 CH=C=CHCN,12732.9,1576.058,1488.966,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e079506.cat
+079507,C 2 H 5 C 3 N,21709.0,1344.83,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e079507.cat
+080501,C 4 S,,1519.206,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e080501.cat
+080502,ScCl,,5152.415,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e080502.cat
+080503,"S 2 O, v = 0",41915.43,5059.1,4507.161,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e080503.cat
+080504,TiO 2,30520.54,8471.76,6613.59,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e080504.cat
+080505,TiS,,6060.14,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e080505.cat
+080506,OC(CN) 2,6761.196,2924.679,2037.982,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e080506.cat
+080507,c -C 5 H 4 O,8152.163,3939.55,2655.799,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e080507.cat
+080508,"1,3- c -C 6 H 8",5073.97,5062.39,2701.7,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e080508.cat
+081501,HC 4 S,,1434.298,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e081501.cat
+082501,Sc 37 Cl,,4996.065,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e082501.cat
+082502,50 TiO 2,30031.66,8471.94,6590.32,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e082502.cat
+082503,50 TiS,,5963.37,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e082503.cat
+082504,H 2 C 4 S,285000.0,1394.616,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e082504.cat
+082505,NC 3 S,,1439.186,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e082505.cat
+083501,AA - n -C 4 H 9 CN,15028.69,1334.106,1263.858,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e083501.cat
+083502,GA - n -C 4 H 9 CN,7635.625,1788.634,1554.222,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e083502.cat
+083503,AG - n -C 4 H 9 CN,11887.58,1486.186,1415.762,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e083503.cat
+083504,t -C 4 H 9 CN,4530.0,2749.91,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e083504.cat
+083505,C 2 H 5 CHCNCH 3,4070.3694,3145.9235,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e083505.cat
+083506,a -(CH 3 ) 2 CHCH 2 CN,7363.745,2107.1642,1762.0787,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e083506.cat
+083507,g -(CH 3 ) 2 CHCH 2 CN,5293.816,2456.4352,2270.249,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e083507.cat
+083508,NCHCCS,23745.69,1785.881,1658.684,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e083508.cat
+083509,HCCSCN,10294.75,2771.732,2179.001,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e083509.cat
+084501,FeCO,,4363.883,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e084501.cat
+084502,OC 3 S,,1413.912,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e084502.cat
+084503,c -C 4 H 4 O 2,12141.428,2781.277,2296.59,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e084503.cat
+084504,NC 3 34 S,,1402.318,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e084504.cat
+085501,C 7 H,,875.484,7.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e085501.cat
+086501,l -C 7 H 2,276259.0,851.912,849.293,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e086501.cat
+086502,NiCO,,4529.98,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e086502.cat
+087501,l -HC 6 N,,841.307,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e087501.cat
+087502,52 CrCl,,5009.35,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e087502.cat
+088501,SiC 5,,920.895,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e088501.cat
+088502,CH 3 C 6 H,159140.0,778.245,6.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e088502.cat
+088503,H 2 C 3 HC 4 H,15655.72,947.907,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e088503.cat
+088504,H 2 C 5 HC 2 H,16999.0,935.425,5.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e088504.cat
+089501,CH 3 C 5 N,158099.0,778.04,5.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e089501.cat
+089502,"CH 3 CHNH 2 COOH, I",5066.15,3100.928,2264.032,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e089502.cat
+089503,"CH 3 CHNH 2 COOH, II",4973.06,3228.321,2307.823,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e089503.cat
+089504,HC 6 O,,819.7679,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e089504.cat
+089505,52 Cr 37 Cl,,4847.85,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e089505.cat
+089506,H 2 C 3 HC 3 N,15353.493,954.343,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e089506.cat
+090501,CHOCHOHCH 2 OH,5467.776,2789.858,2403.408,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e090501.cat
+090502,c -C 5 H 4 C 2 H 2,8180.7,1886.672,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e090502.cat
+092501,C 5 S,,922.7,5.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e092501.cat
+092502,G'Gg'gg' -CH 2 (OH)CH(OH)CH 2 OH,4297.81,3165.443,2540.443,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e092502.cat
+092503,GGag'g' -CH 2 (OH)CH(OH)CH 2 OH,6258.34,2283.294,2015.899,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e092503.cat
+092504,bc -C 6 H 6 CH 2,4273.63,3610.3,3186.44,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e092504.cat
+092505,c -C 6 H 6 CH 2,5177.82,2613.15,1755.84,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e092505.cat
+092506,c -C 5 H 4 C 2 H 4,6102.15,2454.22,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e092506.cat
+093501,13 CC 4 S,,896.85,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e093501.cat
+093502,C 13 CC 3 S,,910.57,13.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e093502.cat
+093503,C 2 13 CC 2 S,,919.36,2.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e093503.cat
+093504,C 3 13 CCS,,922.64,3.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e093504.cat
+093505,C 4 13 CS,,920.57,4.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e093505.cat
+093506,HC 5 S,,876.367,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e093506.cat
+094501,c -C 6 H 5 OH,5650.496,2619.249,1789.85,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e094501.cat
+094502,C 5 34 S,,899.72,5.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e094502.cat
+094503,HC 4 CHS,26863.6,979.184,943.939,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e094503.cat
+094504,H 2 C 5 S,285000.0,848.387,5.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e094504.cat
+094505,NC 4 S,,875.285,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e094505.cat
+096501,cis -S 2 O 2,12972.93,3488.97,2745.055,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e096501.cat
+097501,C 8 H,,587.264,8.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e097501.cat
+097502,C 8 H –,,583.34,8.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e097502.cat
+097503,MgC 6 H,,579.76,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e097503.cat
+097504,MgC 6 H +,,598.75,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e097504.cat
+098501,l -C 8 H 2,268668.0,574.84,573.613,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e098501.cat
+098502,MgC 5 N,,576.43,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e098502.cat
+098503,C 7 N –,,582.685,7.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e098503.cat
+098504,MgC 5 N +,,594.32,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e098504.cat
+099501,"HC 7 N, v = 0",,564.0011,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e099501.cat
+099502,"HC 7 N, v 15 = 1",,564.8873,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e099502.cat
+099503,"HC 7 N, v 15 = 2",,565.7758,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e099503.cat
+099504,HC 6 NC,,582.52,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e099504.cat
+100501,SiC 6,,611.251,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e100501.cat
+100502,DC 7 N,,545.315,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e100502.cat
+100503,H 13 CC 6 N,,551.644,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e100503.cat
+100504,HC 13 CC 5 N,,557.332,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e100504.cat
+100505,HC 2 13 CC 4 N,,561.694,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e100505.cat
+100506,HC 3 13 CC 3 N,,563.683,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e100506.cat
+100507,HC 4 13 CC 2 N,,563.732,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e100507.cat
+100508,HC 5 13 CCN,,561.827,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e100508.cat
+100509,HC 6 13 CN,,557.539,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e100509.cat
+100510,HC 7 15 N,,552.253,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e100510.cat
+100511,HC 7 NH +,,553.939,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e100511.cat
+101501,HC 7 O,,549.2054,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e101501.cat
+101502,29 SiC 6,,602.298,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e101502.cat
+102501,HC 6 CHO,48900.0,557.212,550.781,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e102501.cat
+102502,c -C 6 H 5 CCH,5680.35,1529.741,1204.956,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e102502.cat
+102503,30 SiC 6,,593.79,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e102503.cat
+103501,c -C 6 H 5 CN,5655.27,1546.875,1214.405,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e103501.cat
+104501,C 6 S,,597.125,6.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e104501.cat
+105502,YO,,13631.9,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e105502.cat
+106501,c -C 6 H 5 CHO,5234.364,1564.274,1204.682,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e106501.cat
+106502,NC 5 S,,569.036,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e106502.cat
+108501,c -C 6 H 5 OCH 3,5028.844,1569.364,1205.826,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e108501.cat
+109501,C 9 H,,413.237,9.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e109501.cat
+112501,CH 3 C 8 H,159140.0,376.713,8.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e112501.cat
+112502,SiC 7,,421.083,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e112502.cat
+113501,CH 3 C 7 N,158099.0,374.721,7.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e113501.cat
+116501,C 7 S,,414.428,7.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e116501.cat
+116502,c -C 9 H 8,3775.037,1580.864,1122.248,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e116502.cat
+117501,HC 7 S,,398.186,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e117501.cat
+118501,NC 6 S,,395.551,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e118501.cat
+121501,C 10 H,,301.388,10.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e121501.cat
+121502,YS,,4163.1,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e121502.cat
+121503,C 10 H –,,299.872,10.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e121503.cat
+123501,"HC 9 N, v = 0",,290.5183,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e123501.cat
+124501,DC 9 N,,282.9185,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e124501.cat
+124502,H 13 CC 8 N,,285.0591,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e124502.cat
+124503,HC 13 CC 7 N,,287.0799,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e124503.cat
+124504,HC 2 13 CC 6 N,,288.8094,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e124504.cat
+124505,HC 3 13 CC 5 N,,289.8553,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e124505.cat
+124506,HC 4 13 CC 4 N,,290.4474,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e124506.cat
+124507,HC 5 13 CC 3 N,,290.4601,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e124507.cat
+124508,HC 6 13 CC 2 N,,289.8983,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e124508.cat
+124509,HC 7 13 CCN,,288.8797,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e124509.cat
+124510,HC 8 13 CN,,287.1709,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e124510.cat
+124511,HC 9 15 N,,285.2948,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e124511.cat
+124512,SiC 8,,306.261,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e124512.cat
+127501,C 6 H 5 C 3 N,5659.9,569.582,6.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e127501.cat
+127502,1-CN-4-CCH-C 6 H 4,5646.36,709.161,630.03,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e127502.cat
+127503,1-CN-2-CCH-C 6 H 4,2027.441,1329.456,802.669,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e127503.cat
+127504,1-CN-3-CCH-C 6 H 4,2704.875,907.034,679.066,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e127504.cat
+128501,c -C 10 H 8,2841.953,1254.843,870.713,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e128501.cat
+130501,NC 7 S,,284.979,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e130501.cat
+137501,CH 3 C 9 N,158099.0,208.737,9.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e137501.cat
+140501,C 9 S,,222.72,9.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e140501.cat
+145501,C 12 H,,174.777,12.0,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e145501.cat
+147501,HC 11 N,,169.063,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e147501.cat
+152501,c -C 12 H 8,1511.826,1220.631,675.53,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e152501.cat
+154501,c -C 12 H 10,1410.279,1193.866,652.053,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e154501.cat
+166501,c -C 13 H 10,2176.21,586.653,463.569,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e166501.cat
+171501,HC 13 N,,106.9726,,https://cdms.astro.uni-koeln.de/cgi-bin/cdmsinfo?file=e171501.cat
