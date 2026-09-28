@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">CZSpec — CorZo Spectra</title>
+  <desc id="desc">Monograma CZ con un espectro de tres picos sobre fondo azul oscuro.</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="72%">
+      <stop offset="0" stop-color="#0A1E4A"/>
+      <stop offset="1" stop-color="#020A1D"/>
+    </radialGradient>
+    <linearGradient id="letters" x1="90" y1="105" x2="430" y2="315" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22E5DF"/>
+      <stop offset="1" stop-color="#0D7CFF"/>
+    </linearGradient>
+    <linearGradient id="spectrum" x1="86" y1="335" x2="420" y2="335" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0788FF"/>
+      <stop offset=".5" stop-color="#24DADF"/>
+      <stop offset="1" stop-color="#0788FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="508" height="508" rx="92" fill="url(#bg)"/>
+  <path d="M238 137H169C120 137 90 169 90 217s30 80 79 80h11"
+        fill="none" stroke="url(#letters)" stroke-width="35" stroke-linecap="round"/>
+  <path d="M288 137h134L302 296h126"
+        fill="none" stroke="url(#letters)" stroke-width="35" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M89 356h87c15 0 17-61 33-61 17 0 15 57 30 57 14 0 7-136 26-136 19 0 11 136 29 136 14 0 12-57 29-57 16 0 16 61 34 61h80"
+        fill="none" stroke="url(#spectrum)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

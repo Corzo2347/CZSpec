@@ -1,0 +1,7 @@
+"""Permite iniciar la aplicación con ``python -m czspec``."""
+
+from czspec.bootstrap import main
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

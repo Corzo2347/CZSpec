@@ -1,0 +1,61 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "czspec"
+version = "1.0.0"
+description = "Aplicación de escritorio para análisis reproducible de espectros moleculares"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "Oscar Corzo" }
+]
+license = { text = "GPL-3.0-only" }
+keywords = ["astronomy", "radioastronomy", "spectroscopy", "molecular-lines", "pyside6"]
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Environment :: X11 Applications :: Qt",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+  "Natural Language :: Spanish",
+  "Natural Language :: English",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Scientific/Engineering :: Astronomy"
+]
+dependencies = [
+  "numpy>=2,<3",
+  "pandas>=2.1,<3",
+  "scipy>=1.14,<2",
+  "pythonradex>=2.0.2,<3",
+  "plotly>=5.20,<7",
+  "kaleido>=0.2.1",
+  "matplotlib>=3.8,<4",
+  "astropy>=6,<8",
+  "astroquery>=0.4.7,<1",
+  "PySide6>=6.7,<7"
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<9", "ruff>=0.9,<1"]
+build = ["pyinstaller>=6.11,<7"]
+
+[project.urls]
+Homepage = "https://github.com/Corzo2347/CZSpec"
+Repository = "https://github.com/Corzo2347/CZSpec"
+Issues = "https://github.com/Corzo2347/CZSpec/issues"
+
+[project.scripts]
+czspec = "czspec.bootstrap:main"
+czspec-desktop = "czspec.desktop:main"
+czspec-update = "czspec.updater:main"
+
+[tool.setuptools.packages.find]
+include = ["czspec*"]
+
+[tool.setuptools.package-data]
+czspec = ["resources/**/*"]

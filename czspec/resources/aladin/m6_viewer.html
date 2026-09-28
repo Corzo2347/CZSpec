@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CZSpec · representación espacial</title>
+  <link rel="stylesheet" href="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.min.css">
+  <style>
+    html,body,#aladin-lite-div{width:100%;height:100%;margin:0;overflow:hidden;background:#071226}
+    #scientific-badge{position:absolute;z-index:20;left:12px;bottom:12px;max-width:540px;
+      padding:8px 11px;border-radius:8px;background:rgba(7,18,38,.88);color:#e2e8f0;
+      border:1px solid rgba(56,189,248,.55);font:12px/1.35 system-ui,sans-serif;pointer-events:none}
+    #status{position:absolute;z-index:21;right:12px;top:12px;padding:6px 9px;border-radius:7px;
+      background:rgba(7,18,38,.82);color:#bae6fd;font:12px system-ui,sans-serif;pointer-events:none}
+  </style>
+</head>
+<body>
+  <div id="aladin-lite-div"></div>
+  <div id="scientific-badge"><b>Fondo observacional · contornos paramétricos CZSpec</b><br>
+    Los contornos no son mapas moleculares resueltos, centroides medidos ni fronteras físicas.</div>
+  <div id="status">Iniciando Aladin Lite…</div>
+  <script src="https://aladin.cds.unistra.fr/AladinLite/api/v3/latest/aladin.js"></script>
+  <script src="qrc:///qtwebchannel/qwebchannel.js"></script>
+  <script>
+    let aladin = null;
+    let czspecOverlays = [];
+    const statusNode = document.getElementById('status');
+    let bridge = null;
+    if(window.qt && window.QWebChannel){
+      new QWebChannel(qt.webChannelTransport, channel => { bridge = channel.objects.czspecBridge; });
+    }
+    function status(text){
+      statusNode.textContent = text;
+      if(bridge && bridge.reportStatus){ bridge.reportStatus(String(text)); }
+    }
+    function removeCzspecOverlays(){
+      czspecOverlays.forEach(item => { try { aladin.removeOverlay(item); } catch(e) {} });
+      czspecOverlays = [];
+    }
+    window.czspecSetTarget = function(ra, dec, fov){
+      if(!aladin) return;
+      aladin.gotoRaDec(Number(ra), Number(dec));
+      aladin.setFoV(Number(fov));
+    };
+    window.czspecSetSurvey = function(id){
+      if(!aladin) return;
+      try { aladin.setBaseImageLayer(id); status('Fondo: '+id); }
+      catch(e){ status('No se pudo cargar '+id); }
+    };
+    window.czspecSetOverlaySurvey = function(id, opacity){
+      if(!aladin || !id) return;
+      try {
+        A.imageHiPS(id, layer => {
+          aladin.setOverlayImageLayer(layer, 'czspec-context');
+          if(layer.setOpacity) layer.setOpacity(Number(opacity));
+        });
+      } catch(e) { status('No se pudo superponer '+id); }
+    };
+    window.czspecSetLayers = function(layers){
+      if(!aladin) return;
+      removeCzspecOverlays();
+      (layers || []).forEach(layer => {
+        if(!layer.visible) return;
+        const overlay = A.graphicOverlay({
+          name: layer.name,
+          color: layer.color,
+          lineWidth: Number(layer.line_width || 2)
+        });
+        aladin.addOverlay(overlay);
+        (layer.contours || []).forEach(contour => {
+          overlay.add(A.polyline(contour.vertices, {
+            color: layer.color,
+            lineWidth: Number(layer.line_width || 2)
+          }));
+        });
+        czspecOverlays.push(overlay);
+      });
+      status((layers || []).filter(x => x.visible).length+' capa(s) CZSpec visibles');
+    };
+    A.init.then(() => {
+      aladin = A.aladin('#aladin-lite-div', {
+        survey: 'P/DSS2/color',
+        target: '21 43 06 +66 06 54',
+        fov: 0.08,
+        cooFrame: 'ICRS',
+        showReticle: true,
+        showCooGridControl: true,
+        showSimbadPointerControl: true,
+        showShareControl: true,
+        showFullscreenControl: true
+      });
+      status('Aladin Lite listo');
+    }).catch(error => status('No se pudo iniciar Aladin Lite: '+error));
+  </script>
+</body>
+</html>
