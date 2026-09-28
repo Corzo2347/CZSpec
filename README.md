@@ -1,5 +1,8 @@
 # CZSpec
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23004954.svg)](https://doi.org/10.5281/zenodo.23004954)
+[![License: GPL-3.0-only](https://img.shields.io/badge/license-GPL--3.0--only-blue.svg)](LICENSE)
+
 **Current public version: v1.0.0**
 
 CZSpec is a desktop application for reproducible analysis of radioastronomical and molecular spectral-line data. It is written in Python/PySide6 and provides a bilingual Spanish/English interface.
@@ -88,7 +91,7 @@ The GPL license covers the software code. Use of the CZSpec name or logo in a wa
 
 ## Citation
 
-If CZSpec contributes to scientific work, please cite the software. A machine-readable citation is provided in [`CITATION.cff`](CITATION.cff).
+If CZSpec contributes to scientific work, please cite the software. This version (v1.0.0) is archived on Zenodo: [10.5281/zenodo.23004954](https://doi.org/10.5281/zenodo.23004954). A machine-readable citation is provided in [`CITATION.cff`](CITATION.cff), and GitHub's **Cite this repository** button uses it.
 
 ## Changelog
 

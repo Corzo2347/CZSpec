@@ -7,6 +7,8 @@ authors:
     given-names: "Oscar"
 version: "1.0.0"
 date-released: "2026-09-25"
+doi: "10.5281/zenodo.23004954"
+license: GPL-3.0-only
 repository-code: "https://github.com/Corzo2347/CZSpec"
 url: "https://github.com/Corzo2347/CZSpec"
 abstract: "Desktop application for reproducible radioastronomical and molecular spectral-line analysis, including line detection and fitting, molecular identification, and column-density calculations."
